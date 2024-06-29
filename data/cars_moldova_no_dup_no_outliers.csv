@@ -229,7 +229,7 @@ Nissan,X-Trail,2015,SUV,124000.0,1600.0,Diesel,Automatic,13000.0
 Mercedes,C Class,2015,Universal,222000.0,2000.0,Plug-in Hybrid,Automatic,17500.0
 Toyota,Rav 4,2016,Crossover,133494.0,2494.0,Hybrid,Automatic,21500.0
 Mercedes,S Class,2001,Sedan,250830.0,4000.0,Diesel,Automatic,4700.0
-Rare,on-DO,2016,Sedan,150000.0,1596.0,Metan/Propan,Manual,3200.0
+Datsun,on-DO,2016,Sedan,150000.0,1596.0,Metan/Propan,Manual,3200.0
 Seat,Ibiza,2011,Universal,190000.0,1200.0,Diesel,Manual,5100.0
 Nissan,Juke,2012,Crossover,124000.0,1600.0,Petrol,Automatic,9999.0
 Audi,A4,1997,Sedan,300000.0,1800.0,Metan/Propan,Automatic,2700.0
@@ -370,7 +370,7 @@ Lexus,RX Series,2005,SUV,178000.0,2989.0,Metan/Propan,Automatic,9800.0
 Chevrolet,Captiva,2011,Crossover,90000.0,2200.0,Diesel,Automatic,13300.0
 Toyota,Avensis,2014,Sedan,143000.0,2000.0,Diesel,Manual,11700.0
 Mercedes,E Class,2008,Sedan,230000.0,1800.0,Metan/Propan,Automatic,7800.0
-Rare,9-3,2007,Sedan,194777.0,2000.0,Petrol,Automatic,5000.0
+Saab,9-3,2007,Sedan,194777.0,2000.0,Petrol,Automatic,5000.0
 Skoda,Octavia,2008,Universal,200000.0,1900.0,Diesel,Manual,5000.0
 Toyota,Prius v,2016,Hatchback,144000.0,1800.0,Hybrid,Automatic,12300.0
 Volvo,Altele,1995,Hatchback,5000.0,2400.0,Diesel,Manual,1700.0
@@ -793,7 +793,7 @@ Land Rover,Freelander,2007,Crossover,223000.0,2200.0,Diesel,Manual,7999.0
 Volkswagen,Sharan,2011,Minivan,155000.0,1400.0,Petrol,Manual,9499.0
 Audi,Q3,2016,SUV,146000.0,2000.0,Petrol,Automatic,12300.0
 Toyota,Avensis,2010,Sedan,270000.0,1996.0,Diesel,Manual,8250.0
-Rare,9000,1995,Hatchback,275000.0,2300.0,Petrol,Manual,36000.0
+Saab,9000,1995,Hatchback,275000.0,2300.0,Petrol,Manual,36000.0
 Ford,Focus,2014,Hatchback,121000.0,1000.0,Petrol,Manual,6300.0
 Renault,Grand Scenic,2014,Minivan,161000.0,1500.0,Diesel,Automatic,9200.0
 Land Rover,Range Rover,2006,Crossover,214000.0,3600.0,Diesel,Automatic,13350.0
@@ -1115,7 +1115,7 @@ Dacia,Duster,2013,SUV,260000.0,1500.0,Diesel,Manual,7990.0
 Renault,Logan,1998,Sedan,280000.0,2000.0,Petrol,Automatic,1800.0
 Renault,Megane,2014,Hatchback,158000.0,1500.0,Diesel,Manual,6900.0
 Toyota,Avensis,2010,Sedan,210000.0,1800.0,Petrol,Manual,8200.0
-Rare,RDX,2008,SUV,176000.0,2300.0,Metan/Propan,Automatic,9800.0
+Acura,RDX,2008,SUV,176000.0,2300.0,Metan/Propan,Automatic,9800.0
 Volvo,V50,2009,Universal,145000.0,1600.0,Diesel,Manual,7700.0
 Honda,Civic,2007,Sedan,188000.0,1799.0,Metan/Propan,Automatic,4000.0
 Renault,Megane,2015,Hatchback,220000.0,1500.0,Diesel,Manual,4500.0
@@ -1236,7 +1236,7 @@ Lexus,NX Series,2015,Crossover,149000.0,2500.0,Hybrid,Automatic,21750.0
 Volkswagen,Passat,2018,Sedan,51000.0,1400.0,Petrol,Automatic,20990.0
 Toyota,Auris,2014,Universal,187300.0,1800.0,Hybrid,Automatic,9990.0
 BMW,5 Series,2000,Sedan,477777.0,2000.0,Metan/Propan,Manual,4277.0
-Rare,Altele,1989,SUV,123456.0,2559.0,Petrol,Manual,950.0
+Isuzu,Altele,1989,SUV,123456.0,2559.0,Petrol,Manual,950.0
 Hyundai,i20,2011,Hatchback,190000.0,1248.0,Metan/Propan,Manual,4500.0
 Mercedes,E Class,2011,Sedan,200000.0,2200.0,Diesel,Automatic,13400.0
 Renault,Scenic,2006,Sedan,200465.0,1500.0,Diesel,Manual,3100.0
@@ -1302,7 +1302,7 @@ KIA,Sportage,2011,SUV,155000.0,2000.0,Petrol,Automatic,10350.0
 Honda,CR-V,2007,SUV,220000.0,2000.0,Petrol,Automatic,9499.0
 BMW,X5,2004,SUV,176000.0,3000.0,Diesel,Automatic,13700.0
 Volkswagen,Golf,2015,Hatchback,78000.0,2000.0,Petrol,Automatic,23999.0
-Rare,R4,2017,Sedan,160233.0,1500.0,Metan/Propan,Manual,4200.0
+Ravon,R4,2017,Sedan,160233.0,1500.0,Metan/Propan,Manual,4200.0
 KIA,Sportage,2020,Sedan,24000.0,1600.0,Petrol,Automatic,18500.0
 Vaz,2106,1989,Sedan,180000.0,1600.0,Petrol,Manual,9000.0
 Volkswagen,Tiguan,2012,SUV,275000.0,2000.0,Petrol,Automatic,10800.0
@@ -2009,11 +2009,11 @@ Mercedes,Viano,2011,Minivan,245000.0,2200.0,Diesel,Automatic,17500.0
 Ford,Focus,2013,Hatchback,64800.0,999.0,Petrol,Manual,6150.0
 Renault,Grand Scenic,2017,Minivan,188000.0,1500.0,Diesel,Automatic,11850.0
 Skoda,Superb,2017,Hatchback,69000.0,1400.0,Petrol,Automatic,15500.0
-Rare,Altele,2007,Sedan,16000.0,1600.0,Petrol,Manual,2999.0
+Chery,Altele,2007,Sedan,16000.0,1600.0,Petrol,Manual,2999.0
 Renault,Kadjar,2021,SUV,250.0,1500.0,Diesel,Automatic,20700.0
 Lexus,RX Series,2006,SUV,240000.0,2999.0,Metan/Propan,Automatic,10900.0
 Mercedes,Series (W124),1993,Sedan,160000.0,2000.0,Petrol,Manual,2300.0
-Rare,H2,2004,Crossover,206744.0,600.0,Metan/Propan,Automatic,30000.0
+Hummer,H2,2004,Crossover,206744.0,600.0,Metan/Propan,Automatic,30000.0
 Renault,Megane,2014,Universal,102126.0,1461.0,Diesel,Manual,8800.0
 Honda,Insight,2018,Sedan,71700.0,1498.0,Hybrid,Automatic,14900.0
 Subaru,Impreza,2010,Hatchback,99000.0,1500.0,Petrol,Automatic,5850.0
@@ -2082,7 +2082,7 @@ Mitsubishi,Outlander,2015,SUV,120000.0,2000.0,Plug-in Hybrid,Automatic,15899.0
 Volkswagen,Passat,2010,Sedan,211000.0,1400.0,Metan/Propan,Automatic,5699.0
 Toyota,Auris,2011,Hatchback,168000.0,1400.0,Diesel,Automatic,8799.0
 Chevrolet,Cruze,2016,Sedan,88000.0,1400.0,Petrol,Automatic,7799.0
-Rare,Pikap,2008,Pickup,288000.0,3000.0,Diesel,Automatic,9988.0
+Isuzu,Pikap,2008,Pickup,288000.0,3000.0,Diesel,Automatic,9988.0
 Mercedes,M Class,2009,SUV,267000.0,3200.0,Diesel,Automatic,15499.0
 BMW,X5,2005,SUV,185000.0,3000.0,Petrol,Automatic,10500.0
 Mitsubishi,Lancer,2008,Sedan,116000.0,1500.0,Petrol,Automatic,5399.0
@@ -2111,7 +2111,7 @@ Toyota,Prius,2013,Hatchback,156500.0,1800.0,Hybrid,Automatic,7999.0
 Volvo,S80,2007,Sedan,265000.0,2400.0,Diesel,Automatic,7122.0
 Skoda,Fabia,2009,Hatchback,160000.0,1400.0,Diesel,Manual,4900.0
 Toyota,Corolla,2007,Universal,228000.0,1400.0,Diesel,Manual,5300.0
-Rare,Tiggo,2006,Crossover,148000.0,2000.0,Petrol,Manual,2950.0
+Chery,Tiggo,2006,Crossover,148000.0,2000.0,Petrol,Manual,2950.0
 Toyota,Auris,2009,Minivan,260180.0,1400.0,Diesel,Manual,6500.0
 Peugeot,206,2005,Hatchback,209000.0,1100.0,Petrol,Manual,2500.0
 Toyota,Camry,2017,Sedan,47060.0,2500.0,Hybrid,Automatic,15750.0
@@ -2173,7 +2173,7 @@ Toyota,Corolla,2007,Sedan,26064.0,1400.0,Diesel,Automatic,5200.0
 Tesla,Model 3,2017,Sedan,37000.0,0.0,Electric,Automatic,37000.0
 Chevrolet,Epica,2009,Sedan,143000.0,2000.0,Petrol,Manual,4450.0
 Ford,Kuga,2017,Crossover,153800.0,1500.0,Diesel,Manual,14950.0
-Rare,RDX,2012,SUV,10000.0,2300.0,Metan/Propan,Automatic,9990.0
+Acura,RDX,2012,SUV,10000.0,2300.0,Metan/Propan,Automatic,9990.0
 Hyundai,Santa FE,2016,SUV,133000.0,2000.0,Diesel,Automatic,18999.0
 KIA,Sportage,2017,Crossover,120000.0,2000.0,Diesel,Automatic,16900.0
 KIA,Sorento,2015,SUV,127000.0,2000.0,Diesel,Automatic,20990.0
@@ -2307,7 +2307,7 @@ Skoda,Octavia,2008,Universal,237000.0,1898.0,Diesel,Manual,5200.0
 Dacia,Logan,2004,Hatchback,19528.0,1400.0,Metan/Propan,Manual,1450.0
 Toyota,Prius,2008,Hatchback,190000.0,1500.0,Petrol,Automatic,6850.0
 Volkswagen,Caddy,2017,Universal,135000.0,1395.0,Metan/Propan,Manual,12300.0
-Rare,Terrain,2019,Crossover,2000.0,1995.0,Petrol,Automatic,29900.0
+GMC,Terrain,2019,Crossover,2000.0,1995.0,Petrol,Automatic,29900.0
 Peugeot,508,2012,Universal,169000.0,1980.0,Hybrid,Automatic,11600.0
 Volkswagen,Transporter,1993,Minivan,274000.0,2400.0,Diesel,Manual,2400.0
 Renault,Megane,2004,Universal,240000.0,1500.0,Diesel,Manual,3000.0
@@ -2709,7 +2709,7 @@ Toyota,Yaris,2013,Hatchback,149313.0,1364.0,Diesel,Manual,7900.0
 BMW,7 Series,2010,SUV,235000.0,3000.0,Diesel,Automatic,16000.0
 Mercedes,E Class,2017,Sedan,153255.0,1950.0,Diesel,Automatic,27700.0
 BMW,X5,2014,Crossover,166000.0,3000.0,Petrol,Automatic,24000.0
-Rare,Thesis,2004,Sedan,262154.0,2400.0,Diesel,Manual,3999.0
+Lancia,Thesis,2004,Sedan,262154.0,2400.0,Diesel,Manual,3999.0
 Dacia,Logan,2017,Sedan,164853.0,1000.0,Metan/Propan,Manual,3900.0
 Hyundai,Santa FE,2006,SUV,154000.0,2700.0,Metan/Propan,Manual,8700.0
 Volkswagen,Golf,1994,Hatchback,293000.0,1600.0,Petrol,Manual,2450.0
@@ -2785,14 +2785,14 @@ Dacia,Logan,2013,Sedan,240000.0,1200.0,Metan/Propan,Manual,2800.0
 Nissan,Leaf,2013,Minivan,87000.0,0.0,Electric,Automatic,7500.0
 Renault,Scenic,2013,Universal,209325.0,1500.0,Diesel,Automatic,6450.0
 Audi,A4,1997,Sedan,270000.0,1780.0,Metan/Propan,Automatic,2850.0
-Rare,RDX,2012,Crossover,120000.0,2300.0,Metan/Propan,Automatic,9999.0
+Acura,RDX,2012,Crossover,120000.0,2300.0,Metan/Propan,Automatic,9999.0
 Volkswagen,Caddy,2014,Combi,162000.0,1600.0,Metan/Propan,Manual,6800.0
 Renault,Clio,2018,Universal,10500.0,1500.0,Diesel,Manual,8150.0
 Ford,Fusion,2013,Sedan,111000.0,2000.0,Plug-in Hybrid,Automatic,13350.0
 Renault,Kadjar,2016,Crossover,142000.0,1500.0,Diesel,Automatic,14650.0
 Audi,Q5,2010,Crossover,182000.0,2000.0,Petrol,Automatic,12550.0
 Toyota,Auris,2015,Hatchback,160000.0,1364.0,Diesel,Manual,10399.0
-Rare,RDX,2012,SUV,100000.0,2300.0,Metan/Propan,Automatic,9990.0
+Acura,RDX,2012,SUV,100000.0,2300.0,Metan/Propan,Automatic,9990.0
 Nissan,Qashqai,2011,SUV,172864.0,1500.0,Diesel,Manual,8250.0
 Dacia,Logan,2018,Sedan,67859.0,1500.0,Diesel,Manual,7950.0
 Opel,Astra,1992,Hatchback,11111.0,1400.0,Petrol,Manual,500.0
@@ -2905,7 +2905,7 @@ Ford,Fusion,2016,Sedan,67000.0,2000.0,Hybrid,Automatic,11999.0
 Vaz,2104,1993,Minivan,62800.0,1500.0,Petrol,Manual,1000.0
 Ford,Scorpio,1990,Sedan,100000.0,0.0,Petrol,Manual,500.0
 Renault,Megane,2017,Combi,93000.0,1500.0,Diesel,Automatic,11500.0
-Rare,Trooper,2000,SUV,245000.0,3000.0,Diesel,Automatic,6999.0
+Isuzu,Trooper,2000,SUV,245000.0,3000.0,Diesel,Automatic,6999.0
 Skoda,Octavia,2010,Sedan,178000.0,1400.0,Petrol,Manual,6500.0
 Toyota,Auris,2012,Hatchback,208000.0,1800.0,Hybrid,Automatic,9000.0
 Toyota,Prius +,2013,Minivan,184000.0,1800.0,Hybrid,Automatic,10999.0
@@ -3001,7 +3001,7 @@ Nissan,Qashqai,2017,SUV,156400.0,1500.0,Diesel,Manual,11890.0
 Skoda,Fabia,2012,Minivan,199000.0,1200.0,Petrol,Automatic,5790.0
 Peugeot,407,2007,Sedan,274000.0,2000.0,Diesel,Automatic,4450.0
 Opel,Vectra,1997,Sedan,300000.0,2000.0,Petrol,Manual,2300.0
-Rare,Terrain,2018,SUV,41000.0,1500.0,Petrol,Automatic,16999.0
+GMC,Terrain,2018,SUV,41000.0,1500.0,Petrol,Automatic,16999.0
 Dacia,Logan,2006,Sedan,199000.0,1600.0,Metan/Propan,Manual,3199.0
 Volkswagen,Tiguan,2013,Crossover,147100.0,1400.0,Petrol,Manual,11500.0
 Toyota,Camry,2007,Sedan,165000.0,2400.0,Metan/Propan,Automatic,8400.0
@@ -3236,7 +3236,7 @@ Renault,Clio4,2016,Universal,172000.0,1461.0,Diesel,Manual,7000.0
 Volkswagen,Golf,2004,Hatchback,209150.0,1390.0,Petrol,Manual,3700.0
 Nissan,Qashqai,2016,Crossover,161000.0,1600.0,Diesel,Automatic,15699.0
 Hyundai,Santa FE,2013,SUV,206392.0,2199.0,Diesel,Automatic,16730.0
-Rare,Ypsilon,2006,Coupe,198210.0,1300.0,Diesel,Manual,2499.0
+Lancia,Ypsilon,2006,Coupe,198210.0,1300.0,Diesel,Manual,2499.0
 Ssangyong,Korando,2016,Crossover,45000.0,2000.0,Petrol,Automatic,13500.0
 Nissan,Juke,2011,Sedan,79800.0,1598.0,Petrol,Manual,7500.0
 Skoda,Yeti,2012,Crossover,150000.0,1200.0,Petrol,Automatic,8400.0
@@ -3712,7 +3712,7 @@ Seat,Ibiza,2011,Universal,189000.0,1200.0,Diesel,Manual,4750.0
 Hyundai,Accent,1996,Hatchback,1111.0,1500.0,Metan/Propan,Manual,700.0
 BMW,5 Series,1999,Sedan,334210.0,1999.0,Petrol,Manual,3299.0
 Toyota,Prius,2007,Hatchback,199820.0,1500.0,Hybrid,Automatic,4999.0
-Rare,Pikap,2014,Pickup,135335.0,2500.0,Diesel,Manual,18200.0
+Isuzu,Pikap,2014,Pickup,135335.0,2500.0,Diesel,Manual,18200.0
 Mercedes,B Class,2015,Universal,238455.0,1500.0,Diesel,Automatic,11950.0
 Renault,Captur,2014,Crossover,151000.0,1461.0,Diesel,Manual,8200.0
 Hyundai,i40,2013,Minivan,168000.0,1700.0,Diesel,Automatic,10800.0
@@ -4216,7 +4216,7 @@ Ford,Fiesta,2014,Hatchback,137000.0,1000.0,Petrol,Manual,5999.0
 Hyundai,Accent,2002,Hatchback,136000.0,1500.0,Petrol,Automatic,2650.0
 Volkswagen,Bora,2000,Sedan,186000.0,1600.0,Petrol,Manual,1500.0
 Dacia,Logan,2016,Sedan,135000.0,1200.0,Metan/Propan,Manual,2450.0
-Rare,F3,2008,Sedan,200000.0,1500.0,Petrol,Manual,1300.0
+Byd,F3,2008,Sedan,200000.0,1500.0,Petrol,Manual,1300.0
 Honda,CR-V,2014,Universal,161200.0,1598.0,Diesel,Manual,13800.0
 Vaz,2106,1990,Sedan,98000.0,1300.0,Petrol,Manual,950.0
 Ford,Fusion,2017,Sedan,67000.0,2000.0,Hybrid,Automatic,13000.0
@@ -4370,7 +4370,7 @@ Volkswagen,Transporter,2004,Universal,368986.0,2500.0,Diesel,Manual,5900.0
 Opel,Astra,2011,Universal,188293.0,1300.0,Diesel,Manual,7200.0
 Toyota,Avensis,2012,Universal,111111.0,2000.0,Diesel,Manual,12999.0
 Volkswagen,Golf,2006,Universal,111111.0,1400.0,Petrol,Manual,4100.0
-Rare,Qq,2008,SUV,63000.0,1000.0,Petrol,Manual,2599.0
+Chery,Qq,2008,SUV,63000.0,1000.0,Petrol,Manual,2599.0
 Renault,Grand Scenic,2013,Universal,122000.0,1500.0,Diesel,Manual,8999.0
 Renault,Megane,2007,Universal,499999.0,1500.0,Diesel,Manual,2100.0
 Chrysler,PT Cruiser,2003,Hatchback,200000.0,1600.0,Metan/Propan,Manual,3350.0
@@ -4432,7 +4432,7 @@ Mercedes,M Class,2014,Crossover,199000.0,2143.0,Diesel,Automatic,28900.0
 Hyundai,Sonata,2016,Sedan,41500.0,2000.0,Hybrid,Automatic,14050.0
 Toyota,Corolla,2005,Universal,270000.0,1400.0,Diesel,Automatic,4900.0
 Toyota,Auris,2010,Hatchback,224000.0,1364.0,Diesel,Manual,6399.0
-Rare,Ypsilon,2013,Hatchback,108000.0,900.0,Petrol,Manual,3500.0
+Lancia,Ypsilon,2013,Hatchback,108000.0,900.0,Petrol,Manual,3500.0
 Audi,A6,2012,Sedan,20011.0,2000.0,Petrol,Automatic,13200.0
 BMW,3 Series,2012,Sedan,206000.0,1995.0,Petrol,Automatic,16200.0
 Mercedes,E Class,2014,Sedan,250000.0,2000.0,Diesel,Automatic,12999.0
@@ -4806,7 +4806,7 @@ Mercedes,E Class,2008,Sedan,222222.0,3000.0,Diesel,Automatic,3700.0
 Renault,Scenic,2012,Microvan,215000.0,1500.0,Diesel,Manual,6750.0
 Skoda,Superb,2009,Hatchback,169500.0,1398.0,Petrol,Manual,7100.0
 BMW,5 Series,2003,Sedan,10000.0,2200.0,Petrol,Manual,6800.0
-Rare,R2,2017,Hatchback,41000.0,1200.0,Petrol,Automatic,4950.0
+Ravon,R2,2017,Hatchback,41000.0,1200.0,Petrol,Automatic,4950.0
 Opel,Insignia,2009,Hatchback,223000.0,2000.0,Diesel,Manual,5000.0
 Mitsubishi,L Series,2009,Pickup,270000.0,2500.0,Diesel,Manual,7500.0
 Volvo,S70,1998,Sedan,240770.0,1984.0,Petrol,Manual,3500.0
@@ -4889,7 +4889,7 @@ Opel,Insignia,2011,Sedan,121000.0,1800.0,Petrol,Manual,8500.0
 Opel,Zafira,2000,Universal,3350.0,200.0,Diesel,Manual,3350.0
 Dacia,Logan,2008,Universal,350000.0,1500.0,Diesel,Manual,3700.0
 Lexus,RX Series,2007,Crossover,211300.0,3311.0,Hybrid,Automatic,4500.0
-Rare,R2,2017,Hatchback,58000.0,1200.0,Petrol,Automatic,4800.0
+Ravon,R2,2017,Hatchback,58000.0,1200.0,Petrol,Automatic,4800.0
 Toyota,Corolla,2005,Hatchback,20000.0,1500.0,Diesel,Manual,1000.0
 Hyundai,Santa FE,2014,Crossover,135000.0,2000.0,Petrol,Automatic,15799.0
 Skoda,Octavia,2016,Sedan,198000.0,1600.0,Diesel,Manual,11999.0
@@ -5316,7 +5316,7 @@ Nissan,Qashqai,2012,Hatchback,154000.0,1500.0,Diesel,Manual,8700.0
 Volvo,XC90,2005,SUV,200000.0,2900.0,Metan/Propan,Automatic,7800.0
 BMW,5 Series,1996,Sedan,305000.0,2000.0,Petrol,Automatic,3500.0
 Hyundai,Tucson,2005,Crossover,229000.0,2000.0,Diesel,Manual,6800.0
-Rare,ILX,2013,Sedan,72860.0,1500.0,Hybrid,Automatic,10500.0
+Acura,ILX,2013,Sedan,72860.0,1500.0,Hybrid,Automatic,10500.0
 Volkswagen,Sharan,2004,Universal,320000.0,1900.0,Diesel,Manual,5950.0
 Opel,Zafira,2002,Universal,345000.0,1600.0,Metan/Propan,Manual,3650.0
 Opel,Zafira,2005,Universal,283000.0,1600.0,Metan/Propan,Manual,3850.0
@@ -5349,7 +5349,7 @@ Hyundai,Santamo,1999,Universal,22222.0,2000.0,Petrol,Manual,1500.0
 Mercedes,Vito,2000,Minivan,350000.0,2200.0,Diesel,Manual,2100.0
 Seat,Ibiza,2010,Hatchback,160000.0,1400.0,Diesel,Manual,4200.0
 Mercedes,GLC,2017,Crossover,58000.0,2000.0,Petrol,Automatic,28500.0
-Rare,Ghibli II,2017,Sedan,38000.0,3000.0,Petrol,Automatic,45000.0
+Maserati,Ghibli II,2017,Sedan,38000.0,3000.0,Petrol,Automatic,45000.0
 BMW,7 Series,1997,Sedan,11111.0,2800.0,Metan/Propan,Manual,3800.0
 Chevrolet,Aveo,2010,Sedan,181241.0,1200.0,Petrol,Manual,2450.0
 Mercedes,E Class,2011,Sedan,251000.0,2200.0,Diesel,Automatic,14100.0
@@ -5502,7 +5502,7 @@ Dacia,Logan,2007,Sedan,250000.0,1400.0,Petrol,Manual,2750.0
 Mercedes,S Class,1995,Sedan,238000.0,3500.0,Diesel,Automatic,7000.0
 Honda,CR-V,2001,Crossover,191000.0,2000.0,Metan/Propan,Automatic,4300.0
 Mercedes,E Class,2003,Sedan,12233.0,2200.0,Diesel,Automatic,6600.0
-Rare,Tiggo,2007,Crossover,176000.0,2000.0,Metan/Propan,Automatic,3300.0
+Chery,Tiggo,2007,Crossover,176000.0,2000.0,Metan/Propan,Automatic,3300.0
 Toyota,Prius Prime,2017,Hatchback,35000.0,1800.0,Hybrid,Automatic,14900.0
 Audi,A6,1999,Sedan,300000.0,1800.0,Metan/Propan,Manual,3000.0
 Toyota,Camry,2005,Sedan,392300.0,3000.0,Metan/Propan,Automatic,6850.0
@@ -6106,7 +6106,7 @@ Ford,Mondeo,2010,Sedan,178125.0,1999.0,Metan/Propan,Manual,7899.0
 Renault,Kadjar,2018,Crossover,36011.0,1200.0,Petrol,Manual,11799.0
 Land Rover,Range Rover Evoque,2012,Crossover,93112.0,2179.0,Diesel,Automatic,19499.0
 Mercedes,M Class,2012,Universal,234428.0,2200.0,Diesel,Automatic,25299.0
-Rare,9-5,2006,Sedan,399470.0,1900.0,Diesel,Automatic,3599.0
+Saab,9-5,2006,Sedan,399470.0,1900.0,Diesel,Automatic,3599.0
 BMW,7 Series,2012,Sedan,125076.0,3000.0,Petrol,Automatic,24500.0
 Dacia,Logan,2008,Hatchback,203644.0,1500.0,Diesel,Manual,4599.0
 Volkswagen,Passat,2015,Universal,183979.0,2000.0,Diesel,Automatic,18499.0
@@ -6306,7 +6306,7 @@ Honda,Accord,2016,Sedan,30652.0,2000.0,Hybrid,Automatic,16199.0
 Audi,A5,2015,Sedan,145000.0,2000.0,Diesel,Automatic,18900.0
 Lincoln,MKZ,2016,Sedan,52167.0,2000.0,Hybrid,Automatic,17999.0
 Honda,CR-V,2014,Crossover,168332.0,2199.0,Diesel,Automatic,16999.0
-Rare,968,1988,Sedan,57815.0,887.0,Petrol,Manual,2299.0
+Zaz,968,1988,Sedan,57815.0,887.0,Petrol,Manual,2299.0
 Ford,Focus,2014,Universal,121467.0,1000.0,Petrol,Manual,6699.0
 Hyundai,Elantra,2015,Sedan,38000.0,1600.0,Diesel,Automatic,10899.0
 Toyota,Prius,2010,Universal,215690.0,1798.0,Hybrid,Automatic,9299.0
@@ -6601,7 +6601,7 @@ Lexus,CT Series,2012,Hatchback,189133.0,1800.0,Hybrid,Automatic,11799.0
 BMW,4 series,2016,Sedan,159413.0,2000.0,Diesel,Automatic,20999.0
 Citroen,Nemo,2009,Universal,253744.0,1500.0,Diesel,Manual,4699.0
 Hyundai,Sonata,2013,Sedan,178874.0,2000.0,Metan/Propan,Automatic,9199.0
-Rare,F3,2011,Sedan,139775.0,1500.0,Petrol,Manual,3699.0
+Byd,F3,2011,Sedan,139775.0,1500.0,Petrol,Manual,3699.0
 Toyota,Prius +,2014,Universal,235573.0,1800.0,Metan/Propan,Automatic,11999.0
 Mercedes,E Class,1995,Coupe,148870.0,2000.0,Metan/Propan,Manual,5299.0
 Hyundai,Santa FE,2012,Crossover,224763.0,2200.0,Diesel,Automatic,13999.0
@@ -7519,7 +7519,7 @@ Volkswagen,Tiguan,2009,Crossover,180000.0,1400.0,Petrol,Manual,8000.0
 KIA,Rio,2005,Hatchback,230000.0,1500.0,Diesel,Manual,3800.0
 Audi,A4,2003,Sedan,230000.0,2000.0,Petrol,Manual,3900.0
 Renault,Kadjar,2017,SUV,118200.0,1500.0,Diesel,Automatic,12850.0
-Rare,1102 Tavria,1993,Sedan,100000.0,1100.0,Petrol,Manual,5000.0
+Zaz,1102 Tavria,1993,Sedan,100000.0,1100.0,Petrol,Manual,5000.0
 Dacia,Duster,2011,Crossover,166600.0,1496.0,Diesel,Manual,6200.0
 Mazda,626,1994,Hatchback,222222.0,1999.0,Petrol,Manual,1200.0
 BMW,X3,2013,Crossover,107217.0,1995.0,Diesel,Automatic,18500.0
@@ -8075,7 +8075,7 @@ BMW,X5,2017,Crossover,60498.0,3000.0,Diesel,Automatic,49999.0
 Volvo,XC90,2019,SUV,119000.0,2000.0,Diesel,Automatic,44500.0
 Skoda,Octavia,2005,Sedan,180000.0,1600.0,Petrol,Manual,3600.0
 Volkswagen,Passat,2009,Universal,218000.0,1400.0,Metan/Propan,Automatic,6500.0
-Rare,9-5,1999,Sedan,222456.0,300.0,Petrol,Automatic,2500.0
+Saab,9-5,1999,Sedan,222456.0,300.0,Petrol,Automatic,2500.0
 Volkswagen,Passat,2017,Universal,220000.0,1395.0,Petrol,Automatic,11999.0
 Volkswagen,Passat,2009,Sedan,210000.0,1900.0,Diesel,Manual,2000.0
 Toyota,Auris,2009,Hatchback,239381.0,1364.0,Diesel,Manual,6350.0
@@ -9460,7 +9460,7 @@ BMW,X5,2003,SUV,276000.0,3000.0,Metan/Propan,Automatic,7800.0
 BMW,5 Series,1998,Sedan,280121.0,2800.0,Petrol,Automatic,3399.0
 Volvo,XC90,2005,SUV,190121.0,2500.0,Petrol,Automatic,8999.0
 Volkswagen,Transporter,2013,Minivan,289525.0,2000.0,Diesel,Manual,8499.0
-Rare,BS6,2005,Sedan,200000.0,2000.0,Petrol,Manual,1199.0
+Brilliance,BS6,2005,Sedan,200000.0,2000.0,Petrol,Manual,1199.0
 Mercedes,Citan,2012,Minivan,157000.0,1500.0,Diesel,Manual,8100.0
 Toyota,Prius,2012,Sedan,250121.0,1800.0,Hybrid,Automatic,7199.0
 Audi,A6,2006,Sedan,243745.0,2400.0,Petrol,Automatic,6699.0
@@ -9591,7 +9591,7 @@ Volkswagen,Golf,2011,Universal,153100.0,1400.0,Petrol,Manual,7800.0
 Renault,Megane,2004,Universal,302000.0,1500.0,Diesel,Manual,2800.0
 Opel,Astra,2016,Universal,140501.0,1600.0,Diesel,Manual,10600.0
 Skoda,Superb,2015,Sedan,88000.0,200.0,Petrol,Automatic,18400.0
-Rare,969,1985,Cabriolet,45000.0,1300.0,Petrol,Manual,1000.0
+LuAZ,969,1985,Cabriolet,45000.0,1300.0,Petrol,Manual,1000.0
 Dacia,Duster,2012,Crossover,208147.0,1500.0,Diesel,Manual,8699.0
 Mitsubishi,Pajero,2011,Crossover,113224.0,2500.0,Diesel,Automatic,13199.0
 Ford,Fusion,2014,Sedan,136000.0,2000.0,Plug-in Hybrid,Automatic,11200.0
@@ -9610,7 +9610,7 @@ Volkswagen,Tiguan,2009,Crossover,261000.0,1390.0,Petrol,Manual,7500.0
 Volvo,XC60,2010,SUV,211000.0,2400.0,Diesel,Automatic,13200.0
 BMW,5 Series,1990,Sedan,257000.0,2000.0,Petrol,Manual,1500.0
 Dacia,Sandero,2009,Hatchback,191000.0,1400.0,Metan/Propan,Manual,2999.0
-Rare,J7,2021,Sedan,1.0,1500.0,Petrol,Automatic,15900.0
+Jac,J7,2021,Sedan,1.0,1500.0,Petrol,Automatic,15900.0
 BMW,3 Series,2020,Sedan,40000.0,1998.0,Petrol,Automatic,35500.0
 Ford,Transit Connect,2012,Combi,199999.0,1800.0,Diesel,Manual,4950.0
 Ford,Fusion,2016,Sedan,140000.0,2000.0,Hybrid,Automatic,11200.0
@@ -9646,7 +9646,7 @@ Dacia,Logan,2009,Universal,200501.0,1400.0,Metan/Propan,Manual,4100.0
 Skoda,Fabia,2005,Universal,210000.0,1200.0,Petrol,Manual,2850.0
 Ford,Fusion,2005,Hatchback,216000.0,1400.0,Diesel,Manual,800.0
 Renault,Laguna,2008,Sedan,160000.0,2000.0,Diesel,Automatic,3200.0
-Rare,Grand - Am,1994,Sedan,1234.0,2000.0,Petrol,Manual,26000.0
+Pontiac,Grand - Am,1994,Sedan,1234.0,2000.0,Petrol,Manual,26000.0
 Seat,Altea XL,2011,Microvan,141000.0,1400.0,Petrol,Manual,5799.0
 Ford,Fusion,2013,Sedan,170000.0,200.0,Plug-in Hybrid,Automatic,11500.0
 BMW,3 Series,2004,Sedan,156200.0,1995.0,Petrol,Automatic,6900.0
@@ -9971,7 +9971,7 @@ KIA,Niro,2017,Crossover,10500.0,1600.0,Hybrid,Automatic,13300.0
 Hyundai,Tucson,2017,Crossover,145000.0,2000.0,Diesel,Automatic,19300.0
 Hyundai,Creta,2017,Crossover,45000.0,1600.0,Petrol,Automatic,14450.0
 Suzuki,Vitara,2017,SUV,37000.0,1600.0,Petrol,Automatic,14650.0
-Rare,Crosseastar,2007,Crossover,80000.0,2200.0,Petrol,Automatic,5000.0
+Chery,Crosseastar,2007,Crossover,80000.0,2200.0,Petrol,Automatic,5000.0
 Citroen,C8,2006,Minivan,290300.0,2200.0,Diesel,Manual,5000.0
 Renault,Megane,2015,Universal,194000.0,1500.0,Diesel,Manual,6600.0
 Suzuki,Swift,2007,Coupe,120000.0,1300.0,Petrol,Manual,1900.0
@@ -10170,7 +10170,7 @@ Dacia,Lodgy,2013,Minivan,187000.0,1500.0,Diesel,Manual,6500.0
 Dacia,Logan,2007,Universal,400000.0,1499.0,Metan/Propan,Manual,2100.0
 Dacia,Logan,2005,Sedan,197000.0,1400.0,Petrol,Manual,1300.0
 Hyundai,Santa FE,2018,SUV,26029.0,2200.0,Diesel,Automatic,28000.0
-Rare,Trooper,1989,SUV,250000.0,2000.0,Metan/Propan,Manual,2300.0
+Isuzu,Trooper,1989,SUV,250000.0,2000.0,Metan/Propan,Manual,2300.0
 Toyota,Avensis,2009,Universal,218000.0,1998.0,Diesel,Manual,8700.0
 BMW,3 Series,2004,Sedan,290000.0,1800.0,Petrol,Manual,4600.0
 Mazda,5,2008,Minivan,111111.0,2000.0,Diesel,Manual,7300.0
@@ -10181,7 +10181,7 @@ Dacia,Sandero,2006,Hatchback,15000.0,1500.0,Petrol,Manual,2199.0
 KIA,Sorento,2011,SUV,247441.0,2200.0,Diesel,Manual,10800.0
 BMW,5 Series,2000,Sedan,285000.0,2000.0,Petrol,Manual,4000.0
 Vaz,2104,1996,Minivan,109000.0,1500.0,Petrol,Manual,999.0
-Rare,Hover,2008,SUV,189000.0,2500.0,Diesel,Manual,5300.0
+Great Wall,Hover,2008,SUV,189000.0,2500.0,Diesel,Manual,5300.0
 Toyota,Avensis,2009,Sedan,218000.0,1998.0,Diesel,Manual,8700.0
 Toyota,Land Cruiser,2013,SUV,180000.0,4500.0,Diesel,Automatic,32000.0
 Volkswagen,Caddy,2011,Minivan,120000.0,1600.0,Diesel,Manual,8100.0
@@ -10299,10 +10299,10 @@ Renault,Megane,2014,Universal,194340.0,1492.0,Diesel,Manual,6900.0
 Volkswagen,Amarok,2015,Pickup,279870.0,1968.0,Diesel,Manual,15900.0
 Opel,Astra,2006,Universal,312000.0,1300.0,Diesel,Manual,3400.0
 Rover,75,2003,Sedan,168311.0,2000.0,Diesel,Manual,600.0
-Rare,Hover,2008,SUV,8889.0,2800.0,Diesel,Manual,1500.0
+Great Wall,Hover,2008,SUV,8889.0,2800.0,Diesel,Manual,1500.0
 Opel,Corsa,2009,Sedan,11111.0,1900.0,Diesel,Manual,1500.0
-Rare,BS6,2008,Pickup,4444.0,2400.0,Petrol,Manual,450.0
-Rare,BS6,2008,Sedan,18455.0,1458.0,Petrol,Manual,600.0
+Brilliance,BS6,2008,Pickup,4444.0,2400.0,Petrol,Manual,450.0
+Brilliance,BS6,2008,Sedan,18455.0,1458.0,Petrol,Manual,600.0
 Suzuki,Jimny,2002,SUV,155000.0,1364.0,Metan/Propan,Manual,3500.0
 Alta marca,Alt model,2007,Sedan,165872.0,2400.0,Petrol,Manual,2200.0
 Honda,CR-V,2000,Crossover,265000.0,2000.0,Petrol,Automatic,2550.0
@@ -10746,7 +10746,7 @@ Toyota,C-HR,2016,Crossover,138123.0,1798.0,Hybrid,Automatic,16499.0
 Volkswagen,Golf Plus,2012,Universal,188075.0,1600.0,Diesel,Automatic,10599.0
 Mercedes,E Class,2013,Sedan,215368.0,2200.0,Diesel,Automatic,23299.0
 Hyundai,ix35,2011,Crossover,149976.0,1995.0,Diesel,Automatic,12999.0
-Rare,ILX,2013,Sedan,61036.0,1497.0,Hybrid,Automatic,10999.0
+Acura,ILX,2013,Sedan,61036.0,1497.0,Hybrid,Automatic,10999.0
 Mercedes,Citan,2014,Universal,227462.0,1461.0,Diesel,Manual,8099.0
 Skoda,Superb,2004,Sedan,283429.0,2800.0,Metan/Propan,Manual,4999.0
 BMW,2 Series,2017,Hatchback,125403.0,1494.0,Diesel,Automatic,14499.0
@@ -11639,7 +11639,7 @@ Nissan,Altima,2006,Sedan,222582.0,2500.0,Metan/Propan,Automatic,5699.0
 Volkswagen,Passat,2013,Universal,146559.0,1400.0,Petrol,Manual,8599.0
 Volkswagen,Touareg,2011,Crossover,11111.0,3000.0,Diesel,Automatic,21499.0
 Dacia,Duster,2010,Crossover,164230.0,1500.0,Diesel,Manual,7199.0
-Rare,CS35PLUS,2020,Crossover,2030.0,1600.0,Petrol,Automatic,12499.0
+Changan,CS35PLUS,2020,Crossover,2030.0,1600.0,Petrol,Automatic,12499.0
 Infiniti,Q Series,2016,Sedan,52000.0,2000.0,Petrol,Automatic,18499.0
 Lexus,CT Series,2015,Hatchback,147399.0,1800.0,Hybrid,Automatic,14499.0
 Volkswagen,Golf,2005,Hatchback,277000.0,1900.0,Diesel,Manual,6299.0
@@ -12481,7 +12481,7 @@ Mitsubishi,Outlander,2004,SUV,320000.0,200.0,Petrol,Automatic,3500.0
 BMW,X5,2007,Universal,202318.0,4800.0,Metan/Propan,Automatic,7100.0
 Opel,Astra,2012,Universal,165000.0,1300.0,Diesel,Manual,6600.0
 Opel,Omega,1991,Sedan,146631.0,2400.0,Metan/Propan,Manual,500.0
-Rare,Altele,2010,Hatchback,187000.0,1000.0,Petrol,Manual,2600.0
+Byd,Altele,2010,Hatchback,187000.0,1000.0,Petrol,Manual,2600.0
 Chrysler,Grand Voyager,1997,Minivan,332333.0,300.0,Petrol,Automatic,400.0
 BMW,4 series,2016,Coupe,58000.0,2000.0,Petrol,Automatic,20000.0
 Opel,Corsa,2012,Hatchback,161000.0,1300.0,Diesel,Manual,5200.0
@@ -12596,7 +12596,7 @@ Mercedes,E Class,2004,Sedan,302450.0,2200.0,Diesel,Automatic,3250.0
 Renault,Megane,2004,Sedan,255000.0,1600.0,Petrol,Automatic,3200.0
 Opel,Astra,1992,Hatchback,218000.0,1400.0,Petrol,Manual,800.0
 Skoda,Octavia,2010,Sedan,200000.0,1200.0,Petrol,Manual,5400.0
-Rare,9-3,2006,Universal,280000.0,1900.0,Diesel,Automatic,4900.0
+Saab,9-3,2006,Universal,280000.0,1900.0,Diesel,Automatic,4900.0
 Ssangyong,Actyon,2008,Crossover,130000.0,2300.0,Metan/Propan,Manual,5300.0
 Peugeot,607,2005,Sedan,272000.0,2179.0,Diesel,Automatic,5500.0
 Peugeot,607,2005,Sedan,271000.0,2179.0,Diesel,Automatic,5499.0
@@ -12621,10 +12621,10 @@ Renault,Kangoo,2012,Minivan,161000.0,1500.0,Diesel,Manual,5800.0
 Dacia,Lodgy,2013,Universal,163000.0,1500.0,Diesel,Manual,6200.0
 Volkswagen,Golf,2011,Hatchback,178800.0,1390.0,Petrol,Manual,7300.0
 Mercedes,E Class,2006,Sedan,240000.0,3000.0,Diesel,Automatic,3600.0
-Rare,on-DO,2015,Sedan,223000.0,1600.0,Metan/Propan,Manual,2999.0
+Datsun,on-DO,2015,Sedan,223000.0,1600.0,Metan/Propan,Manual,2999.0
 Opel,Astra,2010,Universal,238000.0,1300.0,Diesel,Manual,4800.0
 Renault,Megane,2002,Universal,155000.0,1600.0,Petrol,Manual,3000.0
-Rare,Breez,2008,Sedan,36696.0,1300.0,Petrol,Automatic,650.0
+Lifan,Breez,2008,Sedan,36696.0,1300.0,Petrol,Automatic,650.0
 Volkswagen,Golf,2015,Hatchback,127000.0,1200.0,Petrol,Automatic,9300.0
 Dacia,Logan,2018,Sedan,67000.0,1000.0,Petrol,Manual,4500.0
 BMW,1 Series,2015,Hatchback,11111.0,1500.0,Petrol,Manual,8999.0
@@ -12658,7 +12658,7 @@ Alfa Romeo,Stelvio,2017,Crossover,67000.0,1995.0,Petrol,Automatic,33000.0
 Toyota,Hilux,2020,Pickup,5000.0,2400.0,Diesel,Automatic,35000.0
 Mitsubishi,Galant,1995,Sedan,320000.0,1998.0,Petrol,Manual,1800.0
 Mercedes,GLA,2020,Crossover,13000.0,1600.0,Petrol,Automatic,27000.0
-Rare,Musa,2009,Minivan,171000.0,1248.0,Diesel,Manual,4300.0
+Lancia,Musa,2009,Minivan,171000.0,1248.0,Diesel,Manual,4300.0
 Dacia,Sandero,2015,Hatchback,144000.0,900.0,Petrol,Manual,4650.0
 Opel,Astra,2000,Universal,308000.0,1998.0,Diesel,Manual,2400.0
 Toyota,Avensis,2006,Sedan,230000.0,2000.0,Petrol,Manual,4350.0
@@ -12987,7 +12987,7 @@ Volkswagen,Golf,1994,Hatchback,200000.0,1400.0,Petrol,Manual,1000.0
 BMW,7 Series,2009,Sedan,130000.0,4000.0,Petrol,Automatic,18500.0
 Porsche,Cayenne,2008,Crossover,120000.0,4800.0,Petrol,Automatic,18000.0
 Mercedes,E Class,2009,Sedan,230000.0,1800.0,Metan/Propan,Automatic,8850.0
-Rare,BS6,2007,Sedan,40000.0,200.0,Petrol,Manual,3500.0
+Brilliance,BS6,2007,Sedan,40000.0,200.0,Petrol,Manual,3500.0
 Toyota,Avensis,2005,Sedan,273000.0,2000.0,Diesel,Manual,2010.0
 KIA,Carnival,2003,Minivan,198000.0,2900.0,Diesel,Manual,4200.0
 Audi,Q7,2016,Crossover,65000.0,3000.0,Petrol,Automatic,47500.0
@@ -13161,7 +13161,7 @@ Volkswagen,Passat,2008,Universal,264000.0,2000.0,Diesel,Manual,6900.0
 Honda,CR-V,2010,Crossover,160000.0,2000.0,Petrol,Manual,10700.0
 Volkswagen,Touran,2006,Minivan,166600.0,1400.0,Petrol,Manual,5000.0
 Volkswagen,Passat,1992,Universal,45000.0,1800.0,Metan/Propan,Manual,1000.0
-Rare,Encore,2018,Crossover,119458.0,1400.0,Petrol,Automatic,8700.0
+Buick,Encore,2018,Crossover,119458.0,1400.0,Petrol,Automatic,8700.0
 Hyundai,Santa FE,2007,Minivan,177000.0,2200.0,Diesel,Manual,4900.0
 Mercedes,M Class,2001,SUV,300000.0,2700.0,Diesel,Automatic,6400.0
 Vaz,2110,1999,Sedan,100000.0,1500.0,Petrol,Manual,8500.0
@@ -13321,7 +13321,7 @@ Seat,Arosa,2000,Hatchback,250000.0,1000.0,Metan/Propan,Manual,1000.0
 Lexus,GS Series,2007,Sedan,170000.0,3000.0,Petrol,Automatic,7999.0
 Renault,Scenic,2004,Minivan,350000.0,1500.0,Diesel,Manual,2850.0
 Ford,Ranger,2011,SUV,153000.0,3000.0,Diesel,Automatic,14000.0
-Rare,9-3,2005,Sedan,312000.0,1900.0,Diesel,Manual,4200.0
+Saab,9-3,2005,Sedan,312000.0,1900.0,Diesel,Manual,4200.0
 Volvo,S60,2006,Sedan,210000.0,1998.0,Petrol,Manual,4600.0
 Mini,Countryman,2012,Crossover,105000.0,1600.0,Petrol,Automatic,8600.0
 Mercedes,C Class,2003,Sedan,250000.0,1800.0,Petrol,Manual,5200.0
@@ -13331,7 +13331,7 @@ Volvo,S60,2014,Sedan,125000.0,1600.0,Diesel,Automatic,13500.0
 Volkswagen,Tiguan,2009,SUV,213000.0,1400.0,Petrol,Manual,8800.0
 Dacia,Sandero,2011,Hatchback,152000.0,1200.0,Petrol,Manual,3900.0
 Porsche,Macan,2015,Crossover,94000.0,3604.0,Petrol,Automatic,46000.0
-Rare,MDX,2014,SUV,70000.0,3500.0,Petrol,Automatic,14800.0
+Acura,MDX,2014,SUV,70000.0,3500.0,Petrol,Automatic,14800.0
 Renault,Scenic,2013,Universal,210000.0,1500.0,Diesel,Manual,7000.0
 Honda,Accord,2002,Hatchback,265000.0,200.0,Metan/Propan,Manual,1500.0
 Toyota,Avensis,2012,Universal,178000.0,2231.0,Diesel,Automatic,12450.0
@@ -13341,7 +13341,7 @@ Mazda,3,2008,Sedan,176000.0,1990.0,Petrol,Automatic,2999.0
 Opel,Zafira,2000,Universal,300099.0,2000.0,Diesel,Manual,1650.0
 Toyota,Corolla,2017,Sedan,40000.0,1800.0,Petrol,Automatic,12500.0
 BMW,7 Series,1998,Sedan,216000.0,2800.0,Petrol,Automatic,4100.0
-Rare,Eastar,2005,Sedan,125000.0,2400.0,Petrol,Automatic,1500.0
+Chery,Eastar,2005,Sedan,125000.0,2400.0,Petrol,Automatic,1500.0
 Skoda,Fabia,2017,Universal,176000.0,1400.0,Diesel,Manual,7499.0
 Toyota,Matrix,2003,Minivan,200000.0,1800.0,Metan/Propan,Automatic,3900.0
 Volkswagen,Caddy,2012,Minivan,235000.0,1600.0,Diesel,Manual,3500.0
@@ -13362,7 +13362,7 @@ Honda,HR-V,2019,SUV,14000.0,1798.0,Petrol,Automatic,18549.0
 Opel,Astra,2011,Universal,215000.0,1248.0,Diesel,Manual,6300.0
 Nissan,Qashqai,2016,SUV,99097.0,1600.0,Diesel,Automatic,12230.0
 Nissan,Bluebird,1986,Sedan,321000.0,2000.0,Diesel,Manual,1350.0
-Rare,Altele,2009,Hatchback,176000.0,1000.0,Petrol,Manual,2650.0
+Byd,Altele,2009,Hatchback,176000.0,1000.0,Petrol,Manual,2650.0
 Seat,Ibiza,2009,Hatchback,240000.0,1400.0,Diesel,Manual,4300.0
 Opel,Zafira,1999,Minivan,315000.0,2000.0,Diesel,Manual,3050.0
 Volkswagen,Passat CC,2011,Sedan,168000.0,1984.0,Petrol,Automatic,9999.0
@@ -13484,7 +13484,7 @@ Volvo,XC90,2016,SUV,88000.0,2000.0,Diesel,Automatic,34500.0
 Mercedes,Series (W124),1991,Sedan,11111.0,1997.0,Petrol,Manual,2200.0
 Honda,Accord,2007,Sedan,243000.0,2000.0,Metan/Propan,Automatic,6800.0
 Toyota,Avensis,2017,Universal,113000.0,2000.0,Diesel,Manual,15000.0
-Rare,Altele,2018,Hatchback,250000.0,0.0,Electric,Automatic,8650.0
+Great Wall,Altele,2018,Hatchback,250000.0,0.0,Electric,Automatic,8650.0
 Hyundai,Santa FE,2016,SUV,162000.0,2200.0,Diesel,Automatic,20999.0
 Skoda,Octavia,2005,Universal,233300.0,2000.0,Petrol,Manual,6200.0
 Toyota,Verso,2014,Minivan,149000.0,1600.0,Diesel,Manual,9950.0
@@ -13757,7 +13757,7 @@ Subaru,Forester,2011,Crossover,187890.0,2200.0,Metan/Propan,Automatic,7800.0
 Mercedes,E Class,2001,Universal,391000.0,220.0,Diesel,Automatic,4350.0
 Toyota,Land Cruiser Prado,2014,SUV,71885.0,2700.0,Metan/Propan,Automatic,22600.0
 Opel,Astra,1993,Universal,99999.0,1600.0,Petrol,Manual,800.0
-Rare,FSV,2010,Hatchback,30709.0,1500.0,Petrol,Manual,3750.0
+Brilliance,FSV,2010,Hatchback,30709.0,1500.0,Petrol,Manual,3750.0
 Toyota,Prius,2009,Hatchback,208000.0,1798.0,Hybrid,Automatic,7800.0
 BMW,5 Series,2002,Sedan,336000.0,2500.0,Diesel,Manual,4800.0
 Mercedes,C Class,2003,Universal,310000.0,2700.0,Diesel,Automatic,2200.0
@@ -13791,7 +13791,7 @@ Opel,Zafira,2005,Minivan,335000.0,1600.0,Metan/Propan,Manual,2350.0
 Toyota,Prius,2008,Sedan,111111.0,1500.0,Hybrid,Automatic,6600.0
 KIA,Carnival,2003,Universal,250000.0,2900.0,Diesel,Manual,2200.0
 Toyota,Prius,2014,Hatchback,55500.0,1800.0,Plug-in Hybrid,Automatic,11700.0
-Rare,968,1980,Coupe,10000.0,1100.0,Petrol,Manual,800.0
+Zaz,968,1980,Coupe,10000.0,1100.0,Petrol,Manual,800.0
 Skoda,Octavia,2009,Universal,162000.0,1400.0,Petrol,Automatic,6699.0
 Mercedes,S Class,1996,Sedan,371258.0,3000.0,Diesel,Automatic,8900.0
 Toyota,Prius,2012,Hatchback,260000.0,1800.0,Hybrid,Automatic,8650.0
@@ -14286,7 +14286,7 @@ Toyota,Prius,2013,Sedan,180000.0,1800.0,Hybrid,Automatic,6999.0
 Seat,Cordoba,2000,Pickup,44444.0,2000.0,Hybrid,Automatic,4000.0
 Nissan,Juke,2013,Hatchback,129000.0,1600.0,Petrol,Automatic,12000.0
 Hyundai,Sonata,2018,Sedan,19000.0,1600.0,Petrol,Automatic,14300.0
-Rare,Shuttle,2008,SUV,230000.0,1700.0,Petrol,Manual,4200.0
+Groz,Shuttle,2008,SUV,230000.0,1700.0,Petrol,Manual,4200.0
 Audi,Q7,2016,Crossover,125000.0,3000.0,Petrol,Automatic,38500.0
 Skoda,Superb,2011,Universal,249000.0,1800.0,Petrol,Automatic,7250.0
 Opel,Astra,2010,Universal,198000.0,1300.0,Diesel,Manual,5050.0
@@ -14357,7 +14357,7 @@ Mercedes,E Class,2017,Sedan,106000.0,2143.0,Diesel,Automatic,27599.0
 BMW,X5,2014,SUV,146000.0,3000.0,Petrol,Automatic,31950.0
 Opel,Astra,2008,Universal,215000.0,1300.0,Diesel,Manual,4222.0
 KIA,Sorento,2003,SUV,299000.0,2500.0,Diesel,Automatic,5780.0
-Rare,Hover,2011,Crossover,73000.0,1500.0,Petrol,Manual,1999.0
+Great Wall,Hover,2011,Crossover,73000.0,1500.0,Petrol,Manual,1999.0
 Skoda,Superb,2015,Sedan,170527.0,1600.0,Diesel,Manual,12999.0
 Mercedes,GLK Class,2014,Crossover,55089.0,2200.0,Diesel,Automatic,18199.0
 Renault,Clio,2017,Hatchback,58000.0,1500.0,Diesel,Automatic,9150.0
@@ -15354,7 +15354,7 @@ Mercedes,M Class,2012,Crossover,178000.0,3500.0,Diesel,Automatic,27500.0
 Honda,Accord,1993,Sedan,230682.0,2000.0,Metan/Propan,Manual,2000.0
 Volkswagen,Jetta,1987,Sedan,325000.0,1600.0,Petrol,Manual,13000.0
 Hyundai,Tucson,2008,Crossover,198000.0,2000.0,Metan/Propan,Automatic,5600.0
-Rare,Ghibli II,2014,Hatchback,130000.0,3000.0,Diesel,Automatic,28000.0
+Maserati,Ghibli II,2014,Hatchback,130000.0,3000.0,Diesel,Automatic,28000.0
 Seat,Alhambra,2004,Minivan,285700.0,1900.0,Diesel,Manual,5500.0
 Seat,Ibiza,2011,Combi,170000.0,1200.0,Diesel,Manual,4900.0
 Skoda,Octavia,2009,Universal,180000.0,1800.0,Petrol,Manual,4450.0
@@ -15649,7 +15649,7 @@ Rover,45,2003,Sedan,26200.0,200.0,Diesel,Manual,2000.0
 BMW,5 Series,2014,Universal,153000.0,1998.0,Diesel,Automatic,20500.0
 Nissan,Primera,2000,Sedan,342587.0,1800.0,Petrol,Manual,2690.0
 Renault,Megane,2007,Universal,230000.0,1500.0,Diesel,Manual,3800.0
-Rare,F3,2008,Sedan,300000.0,1600.0,Petrol,Manual,1200.0
+Byd,F3,2008,Sedan,300000.0,1600.0,Petrol,Manual,1200.0
 Nissan,Leaf,2013,Hatchback,91250.0,100.0,Electric,Automatic,7775.0
 Volvo,XC60,2016,SUV,166000.0,2400.0,Diesel,Automatic,20919.0
 Toyota,Rav 4,2019,SUV,2595.0,2000.0,Petrol,Automatic,28500.0
@@ -15893,7 +15893,7 @@ Hyundai,Santa FE,2011,SUV,135000.0,2199.0,Diesel,Automatic,14999.0
 Cadillac,Altele,2017,Sedan,25000.0,1998.0,Plug-in Hybrid,Automatic,23000.0
 Honda,CR-V,2004,Universal,425870.0,2000.0,Petrol,Manual,7500.0
 Volkswagen,Jetta,1989,Sedan,280000.0,1600.0,Petrol,Manual,15000.0
-Rare,BS3,2008,Coupe,120000.0,1800.0,Metan/Propan,Automatic,2600.0
+Brilliance,BS3,2008,Coupe,120000.0,1800.0,Metan/Propan,Automatic,2600.0
 Toyota,Land Cruiser Prado,2003,SUV,360000.0,3000.0,Diesel,Manual,12500.0
 Ford,Fusion,2013,Sedan,150000.0,2000.0,Plug-in Hybrid,Automatic,10950.0
 Audi,A6,2001,Sedan,252000.0,2400.0,Metan/Propan,Automatic,4550.0
@@ -16013,7 +16013,7 @@ Honda,CR-V,2005,SUV,300000.0,2000.0,Metan/Propan,Manual,6800.0
 Skoda,Fabia,2011,Universal,185200.0,1200.0,Diesel,Manual,4500.0
 Mitsubishi,Carisma,2001,Sedan,300000.0,1900.0,Diesel,Manual,1250.0
 Ford,Focus,1999,Universal,230000.0,1800.0,Diesel,Manual,1800.0
-Rare,Dedra,1991,Sedan,123559.0,1800.0,Petrol,Manual,9700.0
+Lancia,Dedra,1991,Sedan,123559.0,1800.0,Petrol,Manual,9700.0
 Audi,A7,2012,Sedan,158000.0,3000.0,Petrol,Automatic,21000.0
 BMW,7 Series,2003,Sedan,250000.0,3500.0,Metan/Propan,Automatic,5300.0
 Dacia,Sandero,2010,Universal,150000.0,1400.0,Metan/Propan,Manual,3000.0
@@ -16476,7 +16476,7 @@ Opel,Insignia,2009,Sedan,210000.0,2000.0,Diesel,Automatic,8999.0
 Dacia,Logan Mcv,2010,Minivan,206000.0,1600.0,Petrol,Manual,4999.0
 Lexus,CT Series,2012,Hatchback,150000.0,1800.0,Petrol,Automatic,11500.0
 Volkswagen,Golf,2015,Universal,210000.0,2000.0,Diesel,Automatic,9500.0
-Rare,Hover,2008,SUV,125000.0,2400.0,Petrol,Manual,5600.0
+Great Wall,Hover,2008,SUV,125000.0,2400.0,Petrol,Manual,5600.0
 Volkswagen,Golf,1995,Hatchback,117000.0,1600.0,Metan/Propan,Manual,3000.0
 Volvo,V50,2005,Universal,370500.0,2000.0,Diesel,Manual,5200.0
 BMW,5 Series,2001,Sedan,340000.0,2500.0,Diesel,Automatic,4200.0
@@ -16724,7 +16724,7 @@ Volvo,XC60,2016,SUV,166000.0,2400.0,Diesel,Automatic,20909.0
 Suzuki,S-Cross,2013,Hatchback,130000.0,1586.0,Petrol,Automatic,7500.0
 BMW,5 Series,2008,Sedan,260000.0,2000.0,Diesel,Manual,8150.0
 Ford,F-150,2016,Pickup,75000.0,5000.0,Petrol,Automatic,25000.0
-Rare,1102 Tavria,1993,SUV,50000.0,1100.0,Petrol,Manual,800.0
+Zaz,1102 Tavria,1993,SUV,50000.0,1100.0,Petrol,Manual,800.0
 Volkswagen,Passat,2019,Sedan,63000.0,2000.0,Petrol,Automatic,15000.0
 Nissan,Qashqai,2008,Minivan,200000.0,1500.0,Diesel,Manual,6300.0
 Seat,Alhambra,1999,Minivan,251000.0,2000.0,Metan/Propan,Manual,3600.0
@@ -16981,7 +16981,7 @@ Honda,Insight,2012,Hatchback,125000.0,1400.0,Hybrid,Automatic,4250.0
 Fiat,500,2013,Hatchback,45000.0,1400.0,Petrol,Automatic,3900.0
 Opel,Astra,2012,Universal,135000.0,1300.0,Diesel,Manual,3600.0
 Mazda,3,2007,Hatchback,156000.0,1600.0,Petrol,Automatic,3300.0
-Rare,Tiggo,2006,Crossover,112000.0,2400.0,Petrol,Manual,1600.0
+Chery,Tiggo,2006,Crossover,112000.0,2400.0,Petrol,Manual,1600.0
 Mitsubishi,Outlander,2007,Crossover,123000.0,2400.0,Petrol,Automatic,3350.0
 Renault,City K-ZE,2019,Hatchback,10000.0,1000.0,Electric,Automatic,7500.0
 Nissan,X-Trail,2002,Universal,240000.0,2000.0,Metan/Propan,Automatic,4200.0
@@ -17024,7 +17024,7 @@ Volkswagen,Passat,1998,Sedan,480000.0,1800.0,Petrol,Manual,2800.0
 Hyundai,Sonata,2012,Sedan,96000.0,2000.0,Petrol,Automatic,6000.0
 Mazda,3,2006,Sedan,167000.0,2000.0,Petrol,Automatic,5700.0
 Opel,Zafira,2004,Minivan,211684.0,2200.0,Diesel,Manual,3250.0
-Rare,F6,2008,Sedan,130000.0,2000.0,Metan/Propan,Manual,4200.0
+Byd,F6,2008,Sedan,130000.0,2000.0,Metan/Propan,Manual,4200.0
 Nissan,Primera,1994,Universal,311000.0,1600.0,Petrol,Manual,1350.0
 Land Rover,Freelander,2009,Crossover,156000.0,2200.0,Diesel,Automatic,10500.0
 Hyundai,i30,2013,Universal,190000.0,1400.0,Diesel,Manual,6850.0
@@ -17110,7 +17110,7 @@ Volkswagen,Polo,2005,Hatchback,136000.0,1400.0,Petrol,Manual,2550.0
 Renault,Espace,1994,Minivan,190000.0,2000.0,Petrol,Manual,1200.0
 Mercedes,S Class,1993,Sedan,334500.0,2800.0,Petrol,Automatic,4000.0
 Mercedes,M Class,2013,SUV,208000.0,2200.0,Diesel,Automatic,31500.0
-Rare,Breez,2008,Sedan,37000.0,1300.0,Petrol,Manual,1399.0
+Lifan,Breez,2008,Sedan,37000.0,1300.0,Petrol,Manual,1399.0
 Mercedes,C Class,2001,Sedan,320000.0,2000.0,Petrol,Manual,4200.0
 Mercedes,E Class,2013,Sedan,170000.0,2200.0,Diesel,Automatic,21500.0
 Mercedes,C Class,2019,Sedan,44000.0,1930.0,Diesel,Automatic,33000.0
@@ -17187,7 +17187,7 @@ Audi,A6,1998,Sedan,327804.0,2500.0,Diesel,Manual,3800.0
 Mercedes,E Class,2015,Sedan,180000.0,2200.0,Diesel,Automatic,12900.0
 Honda,CR-V,2010,Crossover,90000.0,2000.0,Metan/Propan,Automatic,9000.0
 Opel,Vectra,2000,Universal,30000.0,1600.0,Petrol,Manual,2200.0
-Rare,TSX,2009,Sedan,152000.0,2397.0,Petrol,Manual,10000.0
+Acura,TSX,2009,Sedan,152000.0,2397.0,Petrol,Manual,10000.0
 Honda,Civic,2009,Sedan,229000.0,1400.0,Petrol,Automatic,6250.0
 Opel,Astra,2010,Universal,186000.0,1300.0,Diesel,Manual,4850.0
 Toyota,Auris,2012,Hatchback,167000.0,1400.0,Diesel,Manual,7200.0
@@ -17201,7 +17201,7 @@ Vaz,2101,1974,SUV,100000.0,1300.0,Petrol,Manual,1250.0
 Toyota,Auris,2008,Hatchback,250000.0,1461.0,Diesel,Manual,6000.0
 Audi,Q7,2017,Crossover,50000.0,2000.0,Petrol,Automatic,45000.0
 Peugeot,807,2004,Minivan,27000.0,2000.0,Metan/Propan,Manual,2900.0
-Rare,Ypsilon,1997,Hatchback,202000.0,1100.0,Petrol,Manual,1500.0
+Lancia,Ypsilon,1997,Hatchback,202000.0,1100.0,Petrol,Manual,1500.0
 Skoda,Yeti,2012,Crossover,160000.0,180.0,Petrol,Automatic,7777.0
 BMW,X5,2006,Crossover,215599.0,3000.0,Diesel,Automatic,6499.0
 Lexus,CT Series,2011,Hatchback,220000.0,1800.0,Hybrid,Automatic,9800.0
@@ -17285,7 +17285,7 @@ Toyota,Avensis,2010,Sedan,104000.0,1798.0,Petrol,Manual,8900.0
 Honda,Civic,1998,Hatchback,111222.0,1500.0,Petrol,Manual,2000.0
 BMW,5 Series,2018,Sedan,120000.0,2000.0,Diesel,Automatic,23000.0
 Nissan,Qashqai,2015,Crossover,80000.0,1500.0,Diesel,Manual,8700.0
-Rare,9-5,1999,Sedan,222638.0,300.0,Petrol,Automatic,2500.0
+Saab,9-5,1999,Sedan,222638.0,300.0,Petrol,Automatic,2500.0
 Volkswagen,Transporter,2006,Microvan,220000.0,1900.0,Diesel,Manual,6600.0
 Toyota,Corolla,2015,Sedan,75000.0,1400.0,Diesel,Manual,9700.0
 Opel,Vectra,1989,Sedan,180000.0,1800.0,Petrol,Manual,1250.0
@@ -17367,7 +17367,7 @@ Vaz,2114,2008,Hatchback,223000.0,1600.0,Petrol,Manual,1950.0
 Volkswagen,Golf,2011,Hatchback,173213.0,1400.0,Petrol,Manual,7600.0
 Toyota,Avensis,2005,Universal,212000.0,1800.0,Metan/Propan,Manual,5299.0
 Toyota,Auris,2011,Hatchback,199000.0,1400.0,Diesel,Manual,7800.0
-Rare,Niva,2006,SUV,77000.0,1700.0,Metan/Propan,Manual,4099.0
+Lada,Niva,2006,SUV,77000.0,1700.0,Metan/Propan,Manual,4099.0
 Hyundai,i20,2011,Hatchback,190000.0,1240.0,Metan/Propan,Manual,4500.0
 Mercedes,Vito,2006,Minivan,398452.0,2200.0,Diesel,Manual,7500.0
 Toyota,Verso,2013,Minivan,170000.0,1800.0,Petrol,Automatic,11500.0
@@ -17555,7 +17555,7 @@ Volvo,S80,2009,Sedan,10000.0,2000.0,Diesel,Manual,3000.0
 Ford,Edge,2015,SUV,102000.0,1997.0,Petrol,Automatic,18000.0
 BMW,5 Series,2003,Universal,421000.0,2200.0,Metan/Propan,Automatic,4200.0
 KIA,Ceed,2013,Hatchback,98000.0,1396.0,Petrol,Manual,7250.0
-Rare,MDX,2008,Universal,150000.0,3664.0,Metan/Propan,Automatic,6300.0
+Acura,MDX,2008,Universal,150000.0,3664.0,Metan/Propan,Automatic,6300.0
 Volkswagen,Golf,2007,Universal,223570.0,1896.0,Diesel,Manual,6200.0
 Volkswagen,Golf,1995,Hatchback,300538.0,1600.0,Petrol,Manual,2000.0
 Volvo,XC90,2015,SUV,118000.0,1999.0,Diesel,Automatic,26900.0
@@ -17634,7 +17634,7 @@ Mercedes,E-Class Coupe,2011,Cabriolet,119000.0,2000.0,Petrol,Automatic,12500.0
 KIA,Sorento,2017,SUV,167000.0,2199.0,Diesel,Automatic,19699.0
 Rover,75,2003,Sedan,112222.0,200.0,Diesel,Automatic,950.0
 Mercedes,S Class,1999,Sedan,1111.0,1111.0,Diesel,Manual,1000.0
-Rare,GW Peri,2008,Sedan,121245.0,1300.0,Petrol,Manual,799.0
+Great Wall,GW Peri,2008,Sedan,121245.0,1300.0,Petrol,Manual,799.0
 Mercedes,S Class,2001,Sedan,268055.0,3200.0,Diesel,Automatic,1100.0
 Chevrolet,Blazer,1998,Pickup,171000.0,2200.0,Petrol,Manual,3600.0
 BMW,5 Series,2013,Sedan,130000.0,2979.0,Petrol,Automatic,20500.0
@@ -17709,7 +17709,7 @@ Ford,C-Max,2015,Minivan,176000.0,1500.0,Diesel,Manual,7999.0
 Mercedes,E Class,2003,Sedan,345000.0,2200.0,Diesel,Automatic,7000.0
 Volkswagen,Golf,2000,Hatchback,260000.0,1800.0,Petrol,Manual,3600.0
 Renault,Megane,2011,Hatchback,120000.0,1500.0,Diesel,Manual,6000.0
-Rare,Hover,2008,SUV,69000.0,2400.0,Petrol,Manual,5200.0
+Great Wall,Hover,2008,SUV,69000.0,2400.0,Petrol,Manual,5200.0
 Skoda,Fabia,2011,Universal,185000.0,1400.0,Petrol,Automatic,6300.0
 Skoda,Fabia RS,2011,Universal,183000.0,1400.0,Petrol,Automatic,6300.0
 Renault,Megane,2015,Universal,210000.0,1498.0,Diesel,Manual,6900.0
@@ -17784,7 +17784,7 @@ Rover,45,2001,Sedan,281000.0,2000.0,Diesel,Manual,3299.0
 Toyota,Corolla,2005,Universal,322000.0,1400.0,Diesel,Automatic,5600.0
 Skoda,Rapid,2016,Sedan,118000.0,1200.0,Petrol,Manual,7700.0
 Audi,A6,2012,Sedan,199000.0,2000.0,Petrol,Automatic,13900.0
-Rare,iA,2015,Sedan,54000.0,1500.0,Petrol,Automatic,9499.0
+Scion,iA,2015,Sedan,54000.0,1500.0,Petrol,Automatic,9499.0
 Renault,Grand Scenic,2015,Universal,145000.0,1500.0,Diesel,Manual,9199.0
 Peugeot,301,2013,Sedan,197000.0,1200.0,Petrol,Manual,6799.0
 Nissan,Qashqai,2017,Crossover,125000.0,1500.0,Diesel,Manual,16199.0
@@ -17863,7 +17863,7 @@ Opel,Vectra,1990,Sedan,236328.0,200.0,Petrol,Automatic,1400.0
 Renault,Vel Satis,2006,Minivan,236450.0,2200.0,Diesel,Automatic,1750.0
 Honda,Accord,1994,Sedan,300000.0,2000.0,Metan/Propan,Manual,1250.0
 BMW,X5,2004,SUV,249600.0,2996.0,Diesel,Automatic,13299.0
-Rare,969,1989,SUV,47000.0,0.0,Petrol,Manual,1700.0
+LuAZ,969,1989,SUV,47000.0,0.0,Petrol,Manual,1700.0
 Toyota,Avensis,2010,Universal,187000.0,2000.0,Petrol,Automatic,8100.0
 Mercedes,E Class,2020,Sedan,22882.0,2000.0,Diesel,Automatic,46999.0
 Skoda,Octavia,2010,Universal,170000.0,1200.0,Petrol,Manual,6000.0
@@ -17913,7 +17913,7 @@ Audi,Q7,2007,Crossover,253000.0,3000.0,Diesel,Automatic,15000.0
 Volkswagen,Passat,2016,Universal,208000.0,200.0,Diesel,Automatic,15000.0
 Volkswagen,Passat,2013,Universal,232000.0,1400.0,Metan/Propan,Automatic,8800.0
 Honda,CR-V,2010,SUV,295000.0,2000.0,Petrol,Manual,9999.0
-Rare,Altele,2013,Sedan,140000.0,2000.0,Petrol,Automatic,11500.0
+Buick,Altele,2013,Sedan,140000.0,2000.0,Petrol,Automatic,11500.0
 Volkswagen,Passat,1996,Minivan,330254.0,1896.0,Diesel,Manual,3100.0
 Volvo,XC60,2019,SUV,16800.0,1969.0,Petrol,Automatic,35390.0
 Ford,Fusion,2014,Sedan,140000.0,200.0,Hybrid,Automatic,14000.0
@@ -18013,7 +18013,7 @@ Volkswagen,Passat,2008,Sedan,250000.0,1900.0,Diesel,Manual,4700.0
 BMW,3 Series,2015,Sedan,90000.0,2000.0,Petrol,Automatic,14000.0
 Opel,Corsa,1995,Hatchback,306010.0,1400.0,Petrol,Manual,1300.0
 Ford,F-150,2012,Pickup,144000.0,5000.0,Petrol,Automatic,13200.0
-Rare,BS6,2007,Sedan,146000.0,2400.0,Petrol,Manual,1950.0
+Brilliance,BS6,2007,Sedan,146000.0,2400.0,Petrol,Manual,1950.0
 Toyota,Avensis,2004,Sedan,270000.0,1800.0,Metan/Propan,Manual,4600.0
 KIA,Rio,2008,Hatchback,182000.0,1500.0,Diesel,Manual,3950.0
 Land Rover,Range Rover Evoque,2002,SUV,289000.0,2999.0,Diesel,Automatic,10800.0
@@ -18096,7 +18096,7 @@ Audi,Q5,2015,SUV,104000.0,2000.0,Diesel,Automatic,25450.0
 Chevrolet,Captiva,2010,Universal,2000.0,2000.0,Diesel,Automatic,9950.0
 Mercedes,E Class,2018,Sedan,210000.0,2000.0,Diesel,Automatic,26650.0
 Volkswagen,Jetta,2014,Sedan,120000.0,1800.0,Petrol,Automatic,7200.0
-Rare,Largus,1985,Sedan,120555.0,1300.0,Petrol,Manual,550.0
+Lada,Largus,1985,Sedan,120555.0,1300.0,Petrol,Manual,550.0
 Audi,A6,2009,Universal,215000.0,2000.0,Petrol,Automatic,7999.0
 Citroen,Berlingo,2003,Minivan,350000.0,1900.0,Diesel,Manual,2000.0
 Hyundai,Santa FE,2006,Crossover,256000.0,2200.0,Diesel,Automatic,8300.0
@@ -18438,7 +18438,7 @@ Renault,Grand Scenic,2011,Minivan,240000.0,1500.0,Diesel,Manual,5699.0
 Ford,Orion,1993,Sedan,87650.0,1300.0,Petrol,Manual,700.0
 Toyota,Avensis,1999,Sedan,371000.0,1600.0,Metan/Propan,Manual,4950.0
 Fiat,500,2015,Coupe,90000.0,1400.0,Petrol,Automatic,7200.0
-Rare,500,2015,Coupe,90000.0,1400.0,Petrol,Automatic,7200.0
+Abarth,500,2015,Coupe,90000.0,1400.0,Petrol,Automatic,7200.0
 Volkswagen,Passat,1993,Sedan,242761.0,1800.0,Petrol,Manual,1100.0
 Volkswagen,Caddy,2011,Universal,123000.0,1600.0,Diesel,Manual,3700.0
 Citroen,C4,2016,Hatchback,12000.0,1400.0,Diesel,Manual,4900.0
@@ -18474,7 +18474,7 @@ Mercedes,M Class,2008,SUV,256854.0,3200.0,Diesel,Automatic,6999.0
 Audi,A6,2012,Sedan,214000.0,2800.0,Petrol,Automatic,13800.0
 Honda,CR-V,2018,SUV,33000.0,1500.0,Petrol,Automatic,17800.0
 BMW,X3,2014,SUV,190000.0,200.0,Diesel,Automatic,20000.0
-Rare,Freema,2008,Minivan,123000.0,1800.0,Petrol,Automatic,2800.0
+Haima,Freema,2008,Minivan,123000.0,1800.0,Petrol,Automatic,2800.0
 Volkswagen,Jetta,2013,Sedan,250000.0,1400.0,Hybrid,Automatic,7300.0
 Toyota,Rav 4,2007,Crossover,136000.0,2200.0,Diesel,Manual,5900.0
 Nissan,X-Trail,2017,Crossover,21000.0,1600.0,Diesel,Manual,10500.0
@@ -18624,7 +18624,7 @@ Mercedes,A Class,2007,Coupe,150000.0,2000.0,Diesel,Manual,2000.0
 Toyota,Corolla,2004,Universal,200000.0,1400.0,Diesel,Manual,5200.0
 Renault,Grand Scenic,2014,Minivan,181000.0,1500.0,Diesel,Manual,7999.0
 Nissan,Primera,2006,Sedan,180000.0,1800.0,Metan/Propan,Manual,3800.0
-Rare,Kappa,2001,Sedan,300000.0,2400.0,Diesel,Manual,2499.0
+Lancia,Kappa,2001,Sedan,300000.0,2400.0,Diesel,Manual,2499.0
 Hyundai,Santa FE,2020,SUV,10000.0,2151.0,Diesel,Automatic,33099.0
 Dacia,Logan Mcv,2016,Universal,88950.0,900.0,Petrol,Manual,6600.0
 KIA,Sportage,2019,Crossover,90000.0,1995.0,Diesel,Automatic,19899.0
@@ -18636,7 +18636,7 @@ Renault,19,1991,Hatchback,240000.0,1721.0,Petrol,Manual,850.0
 Skoda,Superb,2008,Sedan,286000.0,2000.0,Petrol,Manual,6300.0
 Hyundai,Lantra,1993,Sedan,77777.0,1500.0,Petrol,Manual,700.0
 Renault,Grand Scenic,2012,Minivan,200000.0,1500.0,Diesel,Automatic,6800.0
-Rare,Tiggo,2008,Universal,148000.0,1600.0,Petrol,Manual,3300.0
+Chery,Tiggo,2008,Universal,148000.0,1600.0,Petrol,Manual,3300.0
 Hyundai,Santa FE,2015,SUV,156000.0,1995.0,Diesel,Automatic,17299.0
 Honda,Civic,2004,Hatchback,277870.0,1400.0,Petrol,Manual,3600.0
 Hyundai,Elantra,2000,Hatchback,215000.0,2000.0,Petrol,Manual,1350.0
@@ -18656,7 +18656,7 @@ Mercedes,Vito,2004,Universal,290000.0,2200.0,Diesel,Manual,7200.0
 Dacia,Logan Mcv,2011,Universal,193000.0,1500.0,Diesel,Manual,5250.0
 Mitsubishi,Carisma,1998,Hatchback,250000.0,180.0,Petrol,Manual,1200.0
 Lexus,RX Series,2010,SUV,150000.0,3500.0,Hybrid,Automatic,16000.0
-Rare,T500,2019,Universal,20000.0,1500.0,Petrol,Automatic,12000.0
+Zotye,T500,2019,Universal,20000.0,1500.0,Petrol,Automatic,12000.0
 KIA,Sorento,2005,SUV,230000.0,2555.0,Diesel,Manual,6500.0
 Toyota,Previa,2001,Minivan,478000.0,200.0,Diesel,Manual,5000.0
 Toyota,Corolla,2003,Hatchback,270000.0,1400.0,Petrol,Manual,3750.0
@@ -18759,7 +18759,7 @@ Volkswagen,Touareg,2004,SUV,100000.0,3200.0,Petrol,Automatic,6450.0
 Nissan,Sunny,1993,Hatchback,185000.0,1400.0,Petrol,Manual,850.0
 Ford,Mondeo,1996,Universal,213000.0,2000.0,Petrol,Manual,1100.0
 Ford,Focus,2019,Universal,88000.0,1499.0,Diesel,Automatic,17900.0
-Rare,CK,2008,Sedan,107105.0,1300.0,Petrol,Manual,2100.0
+Geely,CK,2008,Sedan,107105.0,1300.0,Petrol,Manual,2100.0
 Renault,Kadjar,2017,Universal,162000.0,1500.0,Diesel,Manual,11750.0
 Chrysler,PT Cruiser,2001,Minivan,135000.0,1998.0,Petrol,Automatic,3499.0
 Peugeot,307,2004,SUV,200055.0,1600.0,Metan/Propan,Manual,3000.0
@@ -18928,7 +18928,7 @@ Volkswagen,Vento,1993,Sedan,97107.0,1800.0,Petrol,Manual,2000.0
 Toyota,Prius +,2012,Universal,100000.0,1800.0,Hybrid,Automatic,8500.0
 Renault,Megane,2010,Universal,171200.0,1500.0,Diesel,Manual,5900.0
 Volkswagen,Touareg,2004,SUV,290000.0,2500.0,Diesel,Manual,7900.0
-Rare,MDX,2008,SUV,90000.0,3664.0,Petrol,Automatic,13400.0
+Acura,MDX,2008,SUV,90000.0,3664.0,Petrol,Automatic,13400.0
 Volkswagen,Golf,2012,Hatchback,178500.0,2000.0,Petrol,Automatic,12500.0
 Mercedes,E Class,2000,Universal,350000.0,2700.0,Diesel,Manual,2000.0
 Ford,Fusion,2013,Sedan,175859.0,2000.0,Hybrid,Automatic,8900.0
@@ -18961,7 +18961,7 @@ KIA,Cerato,2014,Sedan,41200.0,1600.0,Petrol,Automatic,9400.0
 Opel,Zafira,2007,Minivan,320000.0,1800.0,Metan/Propan,Manual,5250.0
 Audi,A6,2000,Universal,335000.0,2500.0,Diesel,Automatic,3050.0
 Toyota,Avensis,2007,Sedan,173000.0,1600.0,Petrol,Manual,5500.0
-Rare,Hover,2010,SUV,110000.0,1997.0,Petrol,Manual,4199.0
+Great Wall,Hover,2010,SUV,110000.0,1997.0,Petrol,Manual,4199.0
 Opel,Kadett,1992,Sedan,111111.0,1400.0,Metan/Propan,Manual,1000.0
 Ford,Sierra,1985,Universal,150000.0,2000.0,Metan/Propan,Manual,1000.0
 Mercedes,S Class,1979,Sedan,300000.0,2800.0,Petrol,Automatic,9800.0
@@ -19523,7 +19523,7 @@ Dacia,Logan,2007,Sedan,281813.0,1400.0,Metan/Propan,Manual,2250.0
 Hyundai,ix35,2011,Universal,13322.0,200.0,Petrol,Automatic,11600.0
 Honda,CR-V,2010,Crossover,198000.0,2200.0,Diesel,Automatic,12500.0
 Mercedes,GLK Class,2012,Crossover,87000.0,2200.0,Diesel,Automatic,15700.0
-Rare,Altele,2009,Sedan,108000.0,1400.0,Metan/Propan,Manual,2150.0
+Tata,Altele,2009,Sedan,108000.0,1400.0,Metan/Propan,Manual,2150.0
 Ford,Focus,2017,Universal,209657.0,1500.0,Diesel,Manual,7300.0
 Jaguar,XE,2016,Sedan,80000.0,2000.0,Diesel,Automatic,23999.0
 Mitsubishi,Lancer,1989,Sedan,300000.0,1800.0,Diesel,Manual,7000.0
@@ -19540,7 +19540,7 @@ KIA,Sorento,2016,SUV,123000.0,2200.0,Diesel,Automatic,7000.0
 Opel,Astra,2014,Hatchback,123000.0,1300.0,Diesel,Automatic,4950.0
 Nissan,X-Trail,2003,Crossover,111111.0,2200.0,Diesel,Manual,5200.0
 BMW,5 Series,1996,Sedan,25000.0,2000.0,Metan/Propan,Manual,3600.0
-Rare,Altele,2008,Sedan,109000.0,1600.0,Petrol,Manual,1000.0
+Lifan,Altele,2008,Sedan,109000.0,1600.0,Petrol,Manual,1000.0
 Volvo,XC60,2016,SUV,40000.0,2400.0,Diesel,Automatic,12950.0
 Audi,Q5,2016,SUV,150000.0,2000.0,Diesel,Automatic,12500.0
 Mercedes,Vito,2010,Minivan,240000.0,2200.0,Diesel,Manual,5950.0
@@ -19720,7 +19720,7 @@ Honda,Accord,2000,Sedan,257000.0,1800.0,Petrol,Manual,1100.0
 BMW,5 Series,1995,Hatchback,260000.0,2000.0,Petrol,Manual,750.0
 Volkswagen,Golf,1996,Hatchback,219000.0,1800.0,Petrol,Manual,500.0
 Citroen,C5,2010,Universal,370000.0,1997.0,Diesel,Automatic,7500.0
-Rare,Hover,2008,SUV,140000.0,2400.0,Metan/Propan,Manual,5900.0
+Great Wall,Hover,2008,SUV,140000.0,2400.0,Metan/Propan,Manual,5900.0
 Nissan,Primera,1993,Sedan,270000.0,1600.0,Petrol,Manual,1700.0
 Audi,A6,2005,Universal,217000.0,3000.0,Diesel,Automatic,5500.0
 Audi,A4,2015,Sedan,70000.0,2000.0,Petrol,Automatic,14500.0
@@ -19834,8 +19834,8 @@ Volvo,S90,2019,Sedan,28000.0,1969.0,Diesel,Automatic,42800.0
 Opel,Astra,2003,Cabriolet,160000.0,1800.0,Petrol,Manual,3500.0
 Toyota,Avensis,2007,Universal,240000.0,2000.0,Diesel,Manual,5699.0
 Nissan,Almera,2005,Hatchback,1111.0,1111.0,Petrol,Automatic,1700.0
-Rare,Vita,2009,Sedan,185000.0,1500.0,Metan/Propan,Manual,2000.0
-Rare,Dedra,1995,Sedan,180000.0,1798.0,Petrol,Manual,25000.0
+Faw,Vita,2009,Sedan,185000.0,1500.0,Metan/Propan,Manual,2000.0
+Lancia,Dedra,1995,Sedan,180000.0,1798.0,Petrol,Manual,25000.0
 Volkswagen,Passat,1998,Sedan,234567.0,1600.0,Metan/Propan,Manual,2000.0
 Hyundai,Tucson,2016,Crossover,207000.0,2000.0,Diesel,Automatic,18750.0
 Renault,Megane,2005,Universal,1111.0,1111.0,Diesel,Manual,2000.0
@@ -20081,7 +20081,7 @@ Toyota,C-HR,2018,Crossover,154350.0,1800.0,Hybrid,Automatic,19999.0
 Vaz,2108,1989,Hatchback,48590.0,1600.0,Metan/Propan,Manual,1300.0
 Audi,100,1993,Sedan,28000.0,200.0,Petrol,Manual,1800.0
 Renault,Megane,2012,Universal,180000.0,1500.0,Diesel,Manual,5700.0
-Rare,Granta,2008,Sedan,120000.0,1600.0,Petrol,Manual,2200.0
+Lada,Granta,2008,Sedan,120000.0,1600.0,Petrol,Manual,2200.0
 BMW,5 Series,1997,Sedan,61928.0,2500.0,Diesel,Manual,499.0
 Mercedes,S Class,2008,Sedan,290000.0,3000.0,Diesel,Automatic,17500.0
 BMW,X6,2008,SUV,175000.0,3000.0,Diesel,Automatic,21500.0
@@ -20127,7 +20127,7 @@ Toyota,Rav 4,2012,SUV,86000.0,2231.0,Diesel,Manual,9300.0
 Lexus,CT Series,2011,Hatchback,219000.0,1800.0,Hybrid,Automatic,11000.0
 Dacia,Logan,2009,Sedan,280000.0,1400.0,Petrol,Manual,2100.0
 Mercedes,E Class,1997,Sedan,312000.0,2000.0,Metan/Propan,Manual,3700.0
-Rare,Niva,2008,Universal,115845.0,1690.0,Petrol,Manual,4200.0
+Lada,Niva,2008,Universal,115845.0,1690.0,Petrol,Manual,4200.0
 Volkswagen,Jetta,2007,Sedan,285000.0,1900.0,Diesel,Manual,5999.0
 Volkswagen,Golf Plus,2006,Hatchback,309000.0,2000.0,Diesel,Automatic,5300.0
 Lexus,CT Series,2014,Sedan,85000.0,1795.0,Hybrid,Automatic,12799.0
@@ -20219,7 +20219,7 @@ Nissan,Primera,1993,Sedan,300000.0,1600.0,Petrol,Manual,1150.0
 Jeep,Cherokee,1987,SUV,11111.0,300.0,Diesel,Manual,850.0
 KIA,Altele,2020,Sedan,14000.0,2199.0,Diesel,Automatic,33199.0
 Mercedes,GL Class,2008,SUV,295000.0,4000.0,Diesel,Automatic,25000.0
-Rare,Phedra,2005,Minivan,300000.0,1997.0,Metan/Propan,Automatic,3599.0
+Lancia,Phedra,2005,Minivan,300000.0,1997.0,Metan/Propan,Automatic,3599.0
 Mercedes,E Class,2010,Sedan,141000.0,1800.0,Petrol,Automatic,12000.0
 Opel,Astra,2000,Universal,325408.0,1995.0,Diesel,Manual,2500.0
 Mercedes,C Class,1997,Sedan,320000.0,2200.0,Diesel,Manual,2500.0
@@ -20326,7 +20326,7 @@ Opel,Zafira,2004,Universal,303005.0,200.0,Diesel,Manual,4500.0
 Alfa Romeo,Giulia,2011,Hatchback,122000.0,1400.0,Petrol,Manual,7999.0
 Mazda,3,2014,Hatchback,88000.0,2000.0,Petrol,Automatic,9800.0
 Volkswagen,Jetta,2013,Sedan,104555.0,1395.0,Hybrid,Automatic,9500.0
-Rare,iM,2015,Hatchback,112000.0,1800.0,Petrol,Automatic,11250.0
+Scion,iM,2015,Hatchback,112000.0,1800.0,Petrol,Automatic,11250.0
 Audi,80,1996,Universal,240000.0,1989.0,Metan/Propan,Manual,2250.0
 Volkswagen,Caravelle,1995,Universal,350000.0,2400.0,Diesel,Manual,5300.0
 Toyota,Avensis,2009,Sedan,180000.0,2000.0,Diesel,Manual,7500.0
@@ -20455,7 +20455,7 @@ Dacia,Dokker,2012,Minivan,189000.0,1500.0,Diesel,Manual,5600.0
 Toyota,Auris,2009,Hatchback,227000.0,1364.0,Diesel,Manual,5900.0
 Nissan,Qashqai,2012,SUV,210000.0,1500.0,Diesel,Manual,8500.0
 Land Rover,Range Rover,2015,SUV,181000.0,3000.0,Diesel,Automatic,42500.0
-Rare,BS6,2009,Sedan,170500.0,2000.0,Petrol,Manual,2950.0
+Brilliance,BS6,2009,Sedan,170500.0,2000.0,Petrol,Manual,2950.0
 Renault,Laguna,1995,Hatchback,350000.0,1800.0,Metan/Propan,Manual,1500.0
 Toyota,Auris,2015,Universal,187000.0,1800.0,Hybrid,Automatic,11300.0
 Renault,Scenic,2017,Universal,111000.0,1500.0,Diesel,Manual,8200.0
@@ -20543,7 +20543,7 @@ Volkswagen,Caddy,2001,Combi,245000.0,1900.0,Diesel,Manual,2200.0
 Mercedes,E Class,2003,Sedan,250000.0,2200.0,Diesel,Automatic,7199.0
 Mazda,CX-3,2015,Crossover,180000.0,1500.0,Diesel,Automatic,15555.0
 BMW,3 Series,1983,Coupe,285000.0,2500.0,Petrol,Manual,2100.0
-Rare,F3,2008,Sedan,100000.0,1500.0,Petrol,Manual,800.0
+Byd,F3,2008,Sedan,100000.0,1500.0,Petrol,Manual,800.0
 Dacia,Lodgy,2012,Minivan,143058.0,1500.0,Diesel,Manual,6500.0
 Citroen,C4 Picasso,2010,Minivan,210000.0,1600.0,Diesel,Automatic,6000.0
 Mercedes,E Class,2001,Sedan,213000.0,2700.0,Diesel,Manual,2700.0
@@ -20551,7 +20551,7 @@ Volkswagen,Caddy,2012,Minivan,245000.0,2000.0,Diesel,Manual,8450.0
 BMW,5 Series,2002,Universal,394256.0,2500.0,Diesel,Automatic,6500.0
 Vaz,2112,2005,Hatchback,140000.0,1596.0,Petrol,Manual,1700.0
 Renault,Grand Scenic,2012,Universal,20016.0,1500.0,Diesel,Automatic,6950.0
-Rare,Hover,2011,SUV,300000.0,200.0,Petrol,Manual,5000.0
+Great Wall,Hover,2011,SUV,300000.0,200.0,Petrol,Manual,5000.0
 Hyundai,Santa FE,2008,Crossover,199680.0,2200.0,Diesel,Automatic,7700.0
 Opel,Combo,2005,Combi,1111.0,1700.0,Diesel,Automatic,2400.0
 BMW,3 Series,1994,Sedan,320000.0,1800.0,Metan/Propan,Manual,2000.0
@@ -20618,7 +20618,7 @@ KIA,Opirus,2007,Sedan,200000.0,3800.0,Metan/Propan,Automatic,7500.0
 Honda,Accord,1996,Sedan,250000.0,2000.0,Diesel,Manual,1200.0
 Volkswagen,Golf,2008,Sedan,153000.0,1400.0,Petrol,Manual,6500.0
 Mazda,CX-5,2017,Crossover,240000.0,2191.0,Diesel,Automatic,24000.0
-Rare,968,1986,Sedan,111111.0,110.0,Petrol,Manual,400.0
+Zaz,968,1986,Sedan,111111.0,110.0,Petrol,Manual,400.0
 Hyundai,Kona,2020,Crossover,1500.0,0.0,Electric,Automatic,24999.0
 Vaz,2106,1991,Hatchback,180000.0,1300.0,Petrol,Manual,4000.0
 Mercedes,Vaneo,2003,Universal,280000.0,1700.0,Diesel,Automatic,3200.0
@@ -20638,7 +20638,7 @@ Toyota,Corolla,2008,Sedan,165000.0,1400.0,Diesel,Manual,3900.0
 Volkswagen,Bora,2002,Sedan,189000.0,2000.0,Petrol,Manual,1600.0
 Honda,Jazz,2009,Hatchback,125000.0,1400.0,Petrol,Manual,2700.0
 Opel,Astra,2014,Universal,200000.0,1300.0,Diesel,Manual,7000.0
-Rare,Vesta,2009,Sedan,125000.0,1600.0,Petrol,Manual,2200.0
+Lada,Vesta,2009,Sedan,125000.0,1600.0,Petrol,Manual,2200.0
 Nissan,Micra,2004,Hatchback,145000.0,1200.0,Petrol,Manual,1500.0
 Audi,A6,2008,Sedan,132000.0,2000.0,Petrol,Manual,5200.0
 Renault,Kadjar,2015,Crossover,56000.0,1500.0,Diesel,Automatic,8700.0
@@ -20799,7 +20799,7 @@ Mazda,2,2003,Sedan,250000.0,1400.0,Diesel,Manual,2600.0
 BMW,5 Series,2004,Sedan,219599.0,3000.0,Diesel,Automatic,8700.0
 Toyota,Auris,2013,Hatchback,272000.0,2000.0,Diesel,Manual,6700.0
 BMW,5 Series,2012,Universal,250000.0,1994.0,Diesel,Automatic,16900.0
-Rare,Altele,2010,Hatchback,81000.0,998.0,Petrol,Manual,2550.0
+Byd,Altele,2010,Hatchback,81000.0,998.0,Petrol,Manual,2550.0
 Ford,Mondeo,2009,Sedan,121000.0,2300.0,Petrol,Automatic,5200.0
 Nissan,Almera,1996,Hatchback,250000.0,1400.0,Petrol,Manual,1600.0
 Vaz,2110,2001,Sedan,2000.0,1800.0,Petrol,Manual,1350.0
@@ -21046,7 +21046,7 @@ Volkswagen,Golf,2003,Hatchback,230000.0,1600.0,Petrol,Automatic,3800.0
 Toyota,Camry,2006,Sedan,200000.0,2400.0,Metan/Propan,Automatic,6800.0
 Peugeot,206,2003,Minivan,300000.0,1400.0,Petrol,Manual,1200.0
 Renault,Clio,2012,Universal,190000.0,1500.0,Diesel,Manual,4950.0
-Rare,3,2008,Sedan,126000.0,1800.0,Petrol,Manual,2800.0
+Haima,3,2008,Sedan,126000.0,1800.0,Petrol,Manual,2800.0
 Renault,Megane,2017,Universal,154000.0,1500.0,Diesel,Automatic,11500.0
 Ford,Galaxy,1998,Minivan,250000.0,1998.0,Metan/Propan,Manual,2500.0
 Hyundai,Santa FE,2014,Crossover,147801.0,2200.0,Diesel,Automatic,21000.0
@@ -21098,7 +21098,7 @@ Mercedes,Vito,2011,Microvan,289000.0,2200.0,Diesel,Manual,8800.0
 Toyota,Prius,2012,Hatchback,181000.0,1800.0,Hybrid,Automatic,8999.0
 Mercedes,E Class,2007,Sedan,236485.0,280.0,Diesel,Automatic,3500.0
 Subaru,Crosstrek,2015,Crossover,168000.0,2000.0,Hybrid,Automatic,10800.0
-Rare,R4,2018,Sedan,50000.0,1500.0,Metan/Propan,Manual,7777.0
+Ravon,R4,2018,Sedan,50000.0,1500.0,Metan/Propan,Manual,7777.0
 Audi,A6,2015,Sedan,90000.0,2000.0,Petrol,Automatic,19300.0
 Land Rover,Freelander,2005,Crossover,99000.0,1780.0,Petrol,Manual,5350.0
 Opel,Astra,2006,Universal,230000.0,1300.0,Diesel,Manual,4500.0
@@ -21110,7 +21110,7 @@ KIA,Ceed,2008,Hatchback,134600.0,1591.0,Petrol,Automatic,4402.0
 Toyota,Corolla,2013,Sedan,180000.0,1600.0,Petrol,Automatic,7699.0
 Volkswagen,Golf,2014,Hatchback,116000.0,1200.0,Petrol,Automatic,9500.0
 Seat,Altea XL,2007,Combi,198427.0,2000.0,Diesel,Automatic,7150.0
-Rare,Envoy,2002,SUV,14000.0,4200.0,Metan/Propan,Automatic,12300.0
+GMC,Envoy,2002,SUV,14000.0,4200.0,Metan/Propan,Automatic,12300.0
 Chrysler,Voyager,1996,Minivan,190000.0,3000.0,Metan/Propan,Automatic,3000.0
 Opel,Astra,2011,Universal,160000.0,1300.0,Diesel,Manual,6500.0
 Toyota,Avalon,2003,Sedan,10000.0,3000.0,Petrol,Automatic,8200.0
@@ -21226,7 +21226,7 @@ Dacia,Duster,2012,Minivan,70000.0,1500.0,Diesel,Manual,6800.0
 Nissan,Qashqai,2015,SUV,150000.0,1500.0,Diesel,Manual,10700.0
 Skoda,Fabia,2017,Universal,165000.0,1400.0,Diesel,Manual,7500.0
 Dacia,Logan Mcv,2010,Minivan,237000.0,1500.0,Diesel,Manual,4450.0
-Rare,Tiggo,2008,Crossover,228379.0,2000.0,Metan/Propan,Manual,3300.0
+Chery,Tiggo,2008,Crossover,228379.0,2000.0,Metan/Propan,Manual,3300.0
 Opel,Astra,2011,Universal,164000.0,1300.0,Diesel,Manual,7800.0
 Renault,Kangoo,2007,Combi,160169.0,1500.0,Diesel,Manual,3800.0
 Renault,Kadjar,2017,SUV,125668.0,1500.0,Diesel,Automatic,12500.0
@@ -21337,7 +21337,7 @@ BMW,5 Series,2008,Sedan,220000.0,3000.0,Diesel,Automatic,8000.0
 Nissan,Qashqai,2012,Crossover,92690.0,1598.0,Petrol,Automatic,11000.0
 KIA,Sportage,2017,Crossover,146000.0,1685.0,Diesel,Automatic,15599.0
 Nissan,X-Trail,2004,SUV,231541.0,1998.0,Petrol,Manual,5300.0
-Rare,969,1995,Cabriolet,25000.0,1200.0,Petrol,Manual,500.0
+LuAZ,969,1995,Cabriolet,25000.0,1200.0,Petrol,Manual,500.0
 BMW,1 Series,2007,Hatchback,163253.0,1800.0,Petrol,Automatic,5990.0
 BMW,5 Series,2011,Sedan,250000.0,3000.0,Diesel,Automatic,18500.0
 Vaz,21099,1996,Sedan,197000.0,1500.0,Petrol,Manual,1250.0
@@ -21544,7 +21544,7 @@ Volkswagen,Golf,2011,Hatchback,220000.0,1400.0,Petrol,Automatic,8450.0
 Toyota,Carina,1990,Sedan,100000.0,2000.0,Petrol,Manual,1100.0
 Citroen,C3 Picasso,2010,Minivan,158000.0,1400.0,Petrol,Manual,4499.0
 Ford,Transit Connect,2004,Minivan,250000.0,1800.0,Diesel,Manual,3000.0
-Rare,968,1974,Coupe,18000.0,968.0,Petrol,Manual,300.0
+Zaz,968,1974,Coupe,18000.0,968.0,Petrol,Manual,300.0
 Audi,A4,1996,Sedan,297068.0,1600.0,Petrol,Manual,3250.0
 Volkswagen,Vento,1996,Sedan,233000.0,1800.0,Metan/Propan,Manual,25000.0
 Toyota,Corolla,2008,Hatchback,197500.0,1400.0,Diesel,Manual,6500.0
@@ -21648,7 +21648,7 @@ Toyota,Yaris,2014,Hatchback,56000.0,1500.0,Hybrid,Automatic,8600.0
 Opel,Astra,2007,Universal,222222.0,1313.0,Diesel,Manual,2280.0
 BMW,5 Series,2004,Sedan,300000.0,2171.0,Metan/Propan,Automatic,5500.0
 Toyota,Auris,2008,Sedan,1300.0,1400.0,Diesel,Manual,6300.0
-Rare,CK,2006,Sedan,112000.0,1600.0,Diesel,Manual,650.0
+Geely,CK,2006,Sedan,112000.0,1600.0,Diesel,Manual,650.0
 Lexus,LX Series,2003,SUV,412000.0,4700.0,Metan/Propan,Automatic,14500.0
 Mercedes,M Class,2014,Crossover,105000.0,2200.0,Diesel,Automatic,28500.0
 Suzuki,Vitara,2015,Crossover,70000.0,1400.0,Petrol,Automatic,14550.0
@@ -21669,7 +21669,7 @@ Volkswagen,Passat,2018,Sedan,47000.0,1400.0,Petrol,Automatic,21000.0
 Volkswagen,Passat,2011,Universal,314000.0,1400.0,Metan/Propan,Automatic,7450.0
 Vaz,2111,2004,Universal,95000.0,1500.0,Petrol,Manual,1350.0
 Mercedes,S Class,1988,Sedan,230000.0,3800.0,Metan/Propan,Automatic,5500.0
-Rare,Trooper,2004,Universal,95000.0,1500.0,Petrol,Manual,1500.0
+Isuzu,Trooper,2004,Universal,95000.0,1500.0,Petrol,Manual,1500.0
 Lexus,RX Series,2016,Crossover,82000.0,2000.0,Petrol,Automatic,35500.0
 Volkswagen,Golf,2000,Universal,430000.0,1900.0,Diesel,Manual,3500.0
 Porsche,Cayenne,2014,Crossover,141000.0,3000.0,Diesel,Automatic,35500.0
@@ -21721,7 +21721,7 @@ Honda,Civic,2006,Hatchback,250000.0,2200.0,Diesel,Manual,3000.0
 Fiat,Altele,2000,Minivan,1111.0,1900.0,Diesel,Manual,1200.0
 Renault,Megane,2005,Sedan,299000.0,1400.0,Metan/Propan,Manual,2500.0
 BMW,X3,2012,SUV,191000.0,2000.0,Diesel,Automatic,17500.0
-Rare,Tiggo,2007,Universal,250000.0,2000.0,Petrol,Manual,3500.0
+Chery,Tiggo,2007,Universal,250000.0,2000.0,Petrol,Manual,3500.0
 Lexus,RX Series,1999,Crossover,300500.0,3000.0,Metan/Propan,Automatic,4650.0
 Audi,A4,1996,Sedan,330000.0,1600.0,Petrol,Manual,2380.0
 BMW,5 Series,2000,Universal,270000.0,2000.0,Metan/Propan,Manual,3800.0
@@ -21874,7 +21874,7 @@ Dacia,Logan Mcv,2010,Universal,320000.0,1500.0,Diesel,Manual,4200.0
 Hyundai,i30,2008,Hatchback,154000.0,1600.0,Diesel,Automatic,5800.0
 Dacia,Logan,2006,Sedan,350000.0,1400.0,Metan/Propan,Manual,1490.0
 Nissan,X-Trail,2015,Crossover,173000.0,1600.0,Diesel,Automatic,17000.0
-Rare,H3,2007,SUV,139000.0,3653.0,Petrol,Automatic,25000.0
+Hummer,H3,2007,SUV,139000.0,3653.0,Petrol,Automatic,25000.0
 Audi,Q7,2007,SUV,99000.0,4200.0,Petrol,Automatic,14500.0
 Mercedes,Vito,2003,Minivan,290000.0,2200.0,Diesel,Manual,8700.0
 Toyota,Auris,2012,Hatchback,177900.0,1400.0,Diesel,Manual,7400.0
@@ -21924,7 +21924,7 @@ KIA,Sorento,2020,SUV,25000.0,2151.0,Diesel,Automatic,31199.0
 Skoda,Octavia,2005,Minivan,1558.0,1400.0,Diesel,Manual,1950.0
 Volkswagen,Golf,1996,Hatchback,329701.0,1600.0,Metan/Propan,Manual,1796.0
 Volkswagen,Passat,2012,Sedan,171000.0,1400.0,Metan/Propan,Automatic,9300.0
-Rare,Prisma,1987,Sedan,200000.0,1600.0,Petrol,Manual,700.0
+Lancia,Prisma,1987,Sedan,200000.0,1600.0,Petrol,Manual,700.0
 Dacia,Duster,2012,SUV,92000.0,1461.0,Diesel,Manual,7900.0
 Renault,Trafic,2007,Microvan,280000.0,2000.0,Metan/Propan,Manual,6500.0
 Toyota,Auris,2013,Hatchback,209000.0,1800.0,Hybrid,Automatic,8880.0
@@ -22663,7 +22663,7 @@ Audi,A6,2000,Universal,259000.0,2500.0,Diesel,Automatic,4999.0
 Mazda,6,2005,Universal,185000.0,2000.0,Petrol,Manual,2300.0
 Hyundai,Accent,2011,Sedan,89000.0,1400.0,Petrol,Manual,3800.0
 Hyundai,Elantra,2013,Sedan,119000.0,1800.0,Petrol,Automatic,8500.0
-Rare,RDX,2008,SUV,178000.0,2300.0,Metan/Propan,Automatic,9800.0
+Acura,RDX,2008,SUV,178000.0,2300.0,Metan/Propan,Automatic,9800.0
 Suzuki,Swift,2007,Coupe,199500.0,1241.0,Diesel,Manual,3500.0
 Ford,Mondeo,2003,Sedan,126000.0,1800.0,Petrol,Manual,1350.0
 Mercedes,E Class,2005,Sedan,125000.0,2400.0,Petrol,Automatic,4600.0
@@ -23052,7 +23052,7 @@ Ford,Mondeo,2018,Hatchback,162200.0,1500.0,Diesel,Manual,11450.0
 Volkswagen,Golf,2016,Hatchback,80000.0,100.0,Electric,Automatic,11499.0
 Mercedes,Vito,1999,Minivan,230000.0,2200.0,Diesel,Manual,3300.0
 Mercedes,Series (W124),1995,Sedan,340000.0,2200.0,Petrol,Automatic,3000.0
-Rare,Altele,2017,Sedan,38000.0,3000.0,Petrol,Automatic,45000.0
+Maserati,Altele,2017,Sedan,38000.0,3000.0,Petrol,Automatic,45000.0
 Ford,Fusion,2006,Hatchback,167000.0,1400.0,Diesel,Manual,3700.0
 Volkswagen,Polo,2012,Hatchback,106000.0,1400.0,Petrol,Manual,5100.0
 Opel,Astra,2012,Universal,220000.0,1300.0,Diesel,Manual,6100.0
@@ -23207,7 +23207,7 @@ Opel,Vectra,1996,Sedan,350000.0,1598.0,Petrol,Manual,1800.0
 Hyundai,i40,2012,Universal,140000.0,1685.0,Diesel,Automatic,11000.0
 Jeep,Compass,2014,Crossover,40000.0,2400.0,Metan/Propan,Automatic,9500.0
 Ford,Mondeo,2016,Universal,190000.0,1500.0,Diesel,Manual,10700.0
-Rare,1102 Tavria,1993,Hatchback,28750.0,1091.0,Petrol,Manual,7000.0
+Zaz,1102 Tavria,1993,Hatchback,28750.0,1091.0,Petrol,Manual,7000.0
 Honda,CR-V,2011,Crossover,240000.0,2400.0,Petrol,Automatic,11000.0
 Honda,Accord,1998,Sedan,123456.0,1800.0,Petrol,Manual,2200.0
 Mercedes,A Class,1999,Hatchback,270000.0,1400.0,Petrol,Manual,2500.0
@@ -23270,7 +23270,7 @@ BMW,5 Series,1998,Sedan,320000.0,2500.0,Petrol,Automatic,3000.0
 Nissan,Qashqai+2,2012,SUV,94000.0,2000.0,Petrol,Automatic,11650.0
 Toyota,Carina,1994,Sedan,400000.0,1600.0,Petrol,Manual,1650.0
 Toyota,Carina,1996,Sedan,300000.0,1600.0,Metan/Propan,Manual,1500.0
-Rare,F3,2010,Sedan,43000.0,1600.0,Metan/Propan,Manual,2500.0
+Byd,F3,2010,Sedan,43000.0,1600.0,Metan/Propan,Manual,2500.0
 Toyota,Auris,2008,Hatchback,171000.0,1400.0,Diesel,Manual,6450.0
 Mercedes,E Class,2001,Universal,222525.0,2700.0,Diesel,Automatic,1999.0
 Mazda,6,2009,Universal,212000.0,2000.0,Metan/Propan,Manual,6500.0
@@ -23498,7 +23498,7 @@ Honda,Accord,1996,Hatchback,216000.0,1800.0,Petrol,Manual,600.0
 Chevrolet,Cruze,2012,Sedan,170000.0,1593.0,Petrol,Manual,5000.0
 Volkswagen,Passat,2004,Universal,222963.0,1896.0,Diesel,Manual,5300.0
 Volkswagen,Caddy,2006,Combi,206000.0,1600.0,Petrol,Manual,4700.0
-Rare,Granta,2021,Sedan,1.0,100.0,Petrol,Manual,1000.0
+Lada,Granta,2021,Sedan,1.0,100.0,Petrol,Manual,1000.0
 Skoda,Octavia,2011,Universal,260000.0,1600.0,Diesel,Manual,6500.0
 Nissan,Qashqai,2015,Crossover,180000.0,1496.0,Diesel,Manual,12300.0
 Volkswagen,Touran,2011,Minivan,140000.0,1400.0,Petrol,Manual,7800.0
@@ -23588,7 +23588,7 @@ Audi,A6,2016,Sedan,119000.0,2000.0,Petrol,Automatic,23000.0
 Mercedes,Vito,2010,Minivan,260000.0,2200.0,Diesel,Manual,5900.0
 Renault,Megane,2007,Sedan,159000.0,1400.0,Petrol,Manual,2750.0
 Nissan,Leaf,2012,Hatchback,87000.0,100.0,Electric,Automatic,8400.0
-Rare,Altele,2014,Sedan,252550.0,2200.0,Diesel,Automatic,19550.0
+Mercedes-Maybach,Altele,2014,Sedan,252550.0,2200.0,Diesel,Automatic,19550.0
 Toyota,Corolla,2006,Hatchback,283000.0,1400.0,Diesel,Manual,5850.0
 Volkswagen,Golf,1989,Hatchback,321945.0,1600.0,Petrol,Manual,500.0
 Mitsubishi,Outlander,2008,Crossover,170000.0,3000.0,Petrol,Automatic,8700.0
@@ -23738,7 +23738,7 @@ Fiat,Stilo,2004,Universal,240000.0,1600.0,Metan/Propan,Manual,2550.0
 Mazda,2,2008,Hatchback,209000.0,1349.0,Petrol,Manual,4700.0
 Mazda,323,1996,Coupe,400000.0,1500.0,Petrol,Manual,1350.0
 BMW,7 Series,2006,Sedan,295000.0,3000.0,Metan/Propan,Automatic,9000.0
-Rare,968,1990,Sedan,111111.0,1000.0,Petrol,Manual,250.0
+Zaz,968,1990,Sedan,111111.0,1000.0,Petrol,Manual,250.0
 Dacia,Sandero,2013,Hatchback,168000.0,1500.0,Diesel,Manual,5150.0
 Skoda,Octavia,1998,Hatchback,180000.0,1800.0,Petrol,Manual,2500.0
 Nissan,Almera,2003,Sedan,195000.0,1500.0,Petrol,Manual,3500.0
@@ -23776,7 +23776,7 @@ Dacia,Logan,2014,Universal,69143.0,1500.0,Diesel,Manual,3550.0
 Honda,CR-V,2011,Crossover,150333.0,1600.0,Diesel,Automatic,10000.0
 Nissan,Qashqai,2008,Crossover,196186.0,1500.0,Diesel,Manual,5850.0
 Hyundai,Tucson,2012,Crossover,196186.0,2000.0,Petrol,Automatic,9000.0
-Rare,Tiggo,2008,Crossover,186088.0,1600.0,Petrol,Manual,2200.0
+Chery,Tiggo,2008,Crossover,186088.0,1600.0,Petrol,Manual,2200.0
 Porsche,Cayenne,2016,Crossover,59670.0,3000.0,Plug-in Hybrid,Automatic,43777.0
 BMW,5 Series,1999,Sedan,280000.0,2800.0,Petrol,Manual,5200.0
 BMW,5 Series,2006,Universal,200000.0,2500.0,Diesel,Automatic,4700.0
@@ -23986,7 +23986,7 @@ Nissan,Primera,1998,Sedan,380000.0,2000.0,Metan/Propan,Manual,2150.0
 Volkswagen,Transporter,1992,Minivan,280000.0,2400.0,Diesel,Manual,1900.0
 Mercedes,GL Class,2008,Crossover,221000.0,4663.0,Petrol,Automatic,17100.0
 Hyundai,Tucson,2017,Crossover,42000.0,1600.0,Petrol,Automatic,18900.0
-Rare,RDX,2018,Crossover,15000.0,2000.0,Petrol,Automatic,29900.0
+Acura,RDX,2018,Crossover,15000.0,2000.0,Petrol,Automatic,29900.0
 Opel,Zafira,2005,Universal,400000.0,1600.0,Metan/Propan,Manual,4250.0
 Audi,A4,2012,Sedan,165000.0,2000.0,Petrol,Automatic,13500.0
 Ford,Mondeo,2009,Hatchback,257900.0,2198.0,Diesel,Manual,3800.0
@@ -24077,7 +24077,7 @@ Chevrolet,Kalos,2009,Hatchback,190533.0,1400.0,Metan/Propan,Manual,1800.0
 Hyundai,Elantra,2000,Sedan,69143.0,1500.0,Metan/Propan,Manual,890.0
 Ford,Fusion,2011,Sedan,196186.0,2000.0,Plug-in Hybrid,Automatic,6800.0
 Hyundai,i30,2011,Hatchback,69143.0,1400.0,Diesel,Manual,4200.0
-Rare,Qq,2008,Hatchback,153000.0,1000.0,Petrol,Manual,888.0
+Chery,Qq,2008,Hatchback,153000.0,1000.0,Petrol,Manual,888.0
 Audi,A6,2003,Sedan,125000.0,2000.0,Diesel,Manual,3600.0
 Opel,Insignia,2012,Hatchback,157000.0,2000.0,Diesel,Automatic,7300.0
 Mercedes,Series (W124),1994,Sedan,300000.0,2200.0,Metan/Propan,Automatic,5200.0
@@ -24204,7 +24204,7 @@ Mazda,5,2008,Minivan,217000.0,2000.0,Diesel,Manual,3300.0
 Audi,A6,2013,Sedan,200000.0,2000.0,Petrol,Automatic,15000.0
 Alfa Romeo,159,2006,Sedan,199000.0,1900.0,Diesel,Manual,3300.0
 Mercedes,Series (W124),1994,Universal,483232.0,1998.0,Metan/Propan,Manual,2300.0
-Rare,BS6,2009,Sedan,145241.0,200.0,Metan/Propan,Manual,1250.0
+Brilliance,BS6,2009,Sedan,145241.0,200.0,Metan/Propan,Manual,1250.0
 Alta marca,Alt model,2007,Sedan,145000.0,2400.0,Petrol,Manual,2200.0
 Toyota,Auris,2010,Hatchback,214000.0,1390.0,Diesel,Manual,6500.0
 Hyundai,Tucson,2017,SUV,145000.0,2000.0,Diesel,Automatic,19350.0
@@ -24216,7 +24216,7 @@ Hyundai,Tucson,2012,SUV,92000.0,2000.0,Petrol,Automatic,10800.0
 Volkswagen,Transporter,1993,Minivan,350000.0,1900.0,Diesel,Manual,2000.0
 Skoda,Superb,2009,Sedan,205000.0,1400.0,Petrol,Manual,6300.0
 Volkswagen,Golf,1994,Hatchback,309000.0,1998.0,Metan/Propan,Manual,1200.0
-Rare,Hover,2007,SUV,65308.0,2200.0,Metan/Propan,Manual,3500.0
+Great Wall,Hover,2007,SUV,65308.0,2200.0,Metan/Propan,Manual,3500.0
 Volvo,XC90,2007,SUV,190000.0,2400.0,Diesel,Automatic,8000.0
 Volkswagen,Golf,2007,Minivan,180000.0,1400.0,Petrol,Manual,3800.0
 Mercedes,E Class,2008,Sedan,190000.0,2200.0,Diesel,Automatic,7200.0
@@ -24232,7 +24232,7 @@ Mazda,6,2012,Sedan,110000.0,1800.0,Petrol,Manual,10000.0
 Mercedes,E Class,2011,Sedan,248000.0,2000.0,Metan/Propan,Automatic,10850.0
 Toyota,Avalon,2015,Sedan,76000.0,2500.0,Hybrid,Automatic,16800.0
 Toyota,Carina,1996,Sedan,260000.0,1600.0,Diesel,Manual,500.0
-Rare,BS6,2007,Sedan,180000.0,2000.0,Petrol,Manual,1950.0
+Brilliance,BS6,2007,Sedan,180000.0,2000.0,Petrol,Manual,1950.0
 Mazda,626,1996,Hatchback,230000.0,2000.0,Diesel,Manual,500.0
 Toyota,Corolla,2007,Sedan,183000.0,1598.0,Petrol,Automatic,5900.0
 Hyundai,Terracan,2001,SUV,180000.0,2900.0,Diesel,Automatic,5900.0
@@ -24662,7 +24662,7 @@ Ford,Edge,2016,Crossover,91200.0,1999.0,Petrol,Automatic,19999.0
 Volkswagen,Touareg,2004,SUV,280000.0,2500.0,Diesel,Automatic,8200.0
 BMW,5 Series,1996,Sedan,400000.0,2000.0,Petrol,Manual,3200.0
 Hyundai,Tucson,2016,Crossover,85376.0,1600.0,Petrol,Automatic,10800.0
-Rare,969,1990,SUV,24000.0,4000.0,Petrol,Manual,25000.0
+LuAZ,969,1990,SUV,24000.0,4000.0,Petrol,Manual,25000.0
 Honda,CR-V,2020,Crossover,36938.0,1500.0,Petrol,Automatic,14400.0
 Mazda,323,1998,Hatchback,250000.0,1600.0,Petrol,Manual,38000.0
 BMW,X1,2017,Crossover,63147.0,2000.0,Petrol,Automatic,17400.0
@@ -24760,7 +24760,7 @@ Mercedes,E Class,2004,Universal,397000.0,2700.0,Diesel,Automatic,4300.0
 Volkswagen,Golf,2003,Hatchback,251000.0,1400.0,Petrol,Manual,4100.0
 Chrysler,300c,2009,Sedan,113000.0,2680.0,Metan/Propan,Automatic,7500.0
 BMW,5 Series,1995,Sedan,30000.0,2000.0,Metan/Propan,Automatic,3000.0
-Rare,BS6,2007,Sedan,248250.0,2398.0,Metan/Propan,Manual,3500.0
+Brilliance,BS6,2007,Sedan,248250.0,2398.0,Metan/Propan,Manual,3500.0
 BMW,5 Series,2013,Sedan,199999.0,3000.0,Petrol,Automatic,15300.0
 Renault,Trafic,2003,Microvan,318500.0,1900.0,Diesel,Manual,3200.0
 Toyota,Avalon,2013,Sedan,220000.0,2494.0,Hybrid,Automatic,16999.0
@@ -24984,7 +24984,7 @@ Tesla,Model S,2014,Sedan,105896.0,0.0,Electric,Automatic,18900.0
 Dacia,Logan,2010,Universal,183000.0,1500.0,Diesel,Manual,4300.0
 Dacia,Duster,2014,Crossover,135600.0,1500.0,Diesel,Manual,7650.0
 Renault,Kangoo,2003,Minivan,255697.0,1900.0,Diesel,Manual,2400.0
-Rare,F3,2008,Sedan,142000.0,1500.0,Petrol,Manual,1500.0
+Byd,F3,2008,Sedan,142000.0,1500.0,Petrol,Manual,1500.0
 Audi,A6,2001,Universal,300000.0,2500.0,Diesel,Manual,3550.0
 Ford,Fusion,2003,Hatchback,295000.0,1400.0,Diesel,Manual,2300.0
 Renault,Megane,2015,Universal,122550.0,1500.0,Diesel,Automatic,8200.0
@@ -25113,7 +25113,7 @@ Hyundai,ix20,2012,Universal,116440.0,1400.0,Diesel,Manual,5300.0
 Fiat,Doblo,2006,Universal,13453.0,1400.0,Diesel,Manual,2200.0
 Volkswagen,Jetta,2014,Sedan,76541.0,1998.0,Petrol,Manual,11000.0
 Skoda,Octavia,2010,Universal,230000.0,1200.0,Petrol,Automatic,5900.0
-Rare,9-3,2006,Combi,28000.0,1900.0,Diesel,Automatic,5200.0
+Saab,9-3,2006,Combi,28000.0,1900.0,Diesel,Automatic,5200.0
 Honda,CR-V,2013,SUV,160000.0,2200.0,Diesel,Manual,15900.0
 Mercedes,M Class,2011,SUV,245001.0,2200.0,Diesel,Automatic,22900.0
 Volkswagen,Golf,2005,Combi,277000.0,1399.0,Petrol,Manual,3300.0
@@ -25140,7 +25140,7 @@ Volkswagen,Golf,2002,Hatchback,25000.0,1600.0,Petrol,Manual,2350.0
 Mercedes,Viano,2011,SUV,192000.0,2200.0,Diesel,Automatic,16999.0
 Skoda,Superb,2016,Sedan,160000.0,1400.0,Petrol,Manual,11900.0
 Mercedes,Series (W124),1992,Sedan,51000.0,2500.0,Diesel,Manual,5700.0
-Rare,Encore,2017,Crossover,153000.0,1400.0,Petrol,Automatic,12500.0
+Buick,Encore,2017,Crossover,153000.0,1400.0,Petrol,Automatic,12500.0
 Mercedes,E Class,2010,Sedan,76765.0,2200.0,Diesel,Automatic,4000.0
 Renault,Megane,2007,Universal,250000.0,1500.0,Diesel,Manual,3800.0
 Mini,Cooper,2009,Coupe,180000.0,1397.0,Petrol,Manual,5499.0
@@ -25305,7 +25305,7 @@ Mercedes,E Class,2005,Sedan,10000.0,3222.0,Diesel,Automatic,2900.0
 Honda,Accord,1996,Sedan,181000.0,1800.0,Metan/Propan,Manual,1800.0
 Land Rover,Range Rover,2003,SUV,200000.0,300.0,Diesel,Automatic,12000.0
 Renault,Megane,2010,Universal,192000.0,1500.0,Diesel,Manual,5800.0
-Rare,968,1987,Sedan,31000.0,1197.0,Petrol,Manual,500.0
+Zaz,968,1987,Sedan,31000.0,1197.0,Petrol,Manual,500.0
 Porsche,Cayenne,2010,SUV,165000.0,3000.0,Diesel,Automatic,31900.0
 Volkswagen,Tiguan,2008,SUV,122000.0,2000.0,Diesel,Manual,5000.0
 Opel,Astra,2006,Universal,199000.0,1600.0,Metan/Propan,Manual,4200.0
@@ -25342,13 +25342,13 @@ Toyota,4-Runner,1993,SUV,280000.0,2500.0,Diesel,Manual,6800.0
 Opel,Ascona,1985,Sedan,7777.0,1300.0,Petrol,Manual,9999.0
 Hyundai,Getz,2005,Hatchback,193000.0,1400.0,Petrol,Manual,3200.0
 Audi,TT,2003,Coupe,268000.0,1800.0,Petrol,Manual,3000.0
-Rare,Niva,1989,SUV,150000.0,1600.0,Petrol,Manual,500.0
+Lada,Niva,1989,SUV,150000.0,1600.0,Petrol,Manual,500.0
 Mercedes,C Class,2008,Universal,227000.0,2500.0,Petrol,Automatic,9999.0
 Volvo,XC90,2003,Sedan,196000.0,2500.0,Metan/Propan,Automatic,6990.0
 Mercedes,E Class,2008,Sedan,300000.0,2200.0,Diesel,Automatic,8990.0
 Hyundai,Santa FE,2006,SUV,222025.0,2200.0,Diesel,Automatic,7990.0
 Mercedes,E Class,1996,Sedan,200000.0,2000.0,Metan/Propan,Manual,5000.0
-Rare,Largus,2002,Universal,190000.0,1500.0,Metan/Propan,Manual,1400.0
+Lada,Largus,2002,Universal,190000.0,1500.0,Metan/Propan,Manual,1400.0
 Mercedes,E Class,2001,Sedan,338750.0,2700.0,Diesel,Automatic,1500.0
 Mercedes,E Class,2001,Sedan,11111.0,2700.0,Diesel,Automatic,1700.0
 Volkswagen,Polo,2004,Hatchback,145000.0,1200.0,Petrol,Manual,2950.0
@@ -25566,7 +25566,7 @@ Hyundai,Tucson,2016,SUV,110000.0,1600.0,Petrol,Automatic,16750.0
 Peugeot,407,2005,Sedan,182000.0,1999.0,Diesel,Manual,3250.0
 Toyota,Auris,2009,Hatchback,233150.0,1400.0,Diesel,Manual,6000.0
 Moskvich / Izh,Altele,1974,Combi,22222.0,1800.0,Petrol,Manual,1000.0
-Rare,968,1982,Sedan,22222.0,1300.0,Petrol,Manual,700.0
+Zaz,968,1982,Sedan,22222.0,1300.0,Petrol,Manual,700.0
 Moskvich / Izh,2140,1974,Sedan,222222.0,1600.0,Petrol,Manual,1000.0
 Nissan,Juke,2011,Hatchback,120000.0,1600.0,Petrol,Automatic,10000.0
 Hyundai,Sonata,2014,Sedan,102000.0,2000.0,Metan/Propan,Automatic,10750.0
@@ -25676,9 +25676,9 @@ Audi,Q5,2015,Crossover,40000.0,1984.0,Petrol,Automatic,20900.0
 Nissan,Sunny,1992,Hatchback,30000.0,1400.0,Petrol,Automatic,750.0
 Lexus,IS Series,1999,Sedan,300000.0,2000.0,Petrol,Manual,4700.0
 BMW,5 Series,2016,Universal,270000.0,2000.0,Diesel,Automatic,19499.0
-Rare,Breez,2008,Sedan,120000.0,1400.0,Petrol,Manual,1500.0
+Lifan,Breez,2008,Sedan,120000.0,1400.0,Petrol,Manual,1500.0
 BMW,5 Series,2000,Crossover,280000.0,2500.0,Petrol,Automatic,4200.0
-Rare,Breez,2008,Sedan,200000.0,1400.0,Petrol,Manual,1500.0
+Lifan,Breez,2008,Sedan,200000.0,1400.0,Petrol,Manual,1500.0
 Nissan,Qashqai,2015,Crossover,120000.0,1200.0,Petrol,Automatic,10800.0
 Nissan,Qashqai,2014,Crossover,112000.0,1500.0,Diesel,Manual,10900.0
 BMW,5 Series,1999,Sedan,290000.0,1998.0,Metan/Propan,Manual,2900.0
@@ -25823,7 +25823,7 @@ BMW,3 Series,2002,Sedan,260000.0,1789.0,Petrol,Manual,3850.0
 Daewoo,Nubira,2001,Sedan,174300.0,1600.0,Petrol,Manual,2200.0
 Volkswagen,Bora,2000,Sedan,316000.0,1600.0,Petrol,Manual,3800.0
 Opel,Astra,1993,Sedan,14000.0,1600.0,Petrol,Manual,900.0
-Rare,968,1985,Sedan,51000.0,1200.0,Petrol,Manual,2000.0
+Zaz,968,1985,Sedan,51000.0,1200.0,Petrol,Manual,2000.0
 Volkswagen,Caddy,2014,Minivan,165000.0,1598.0,Diesel,Manual,8650.0
 Renault,Megane,2003,Hatchback,221000.0,1998.0,Petrol,Automatic,3400.0
 Volkswagen,Touran,2006,Microvan,248111.0,2000.0,Diesel,Automatic,6500.0
@@ -25899,7 +25899,7 @@ Toyota,Corolla,2003,Universal,280000.0,1400.0,Petrol,Manual,3000.0
 Mercedes,Vito,2000,Microvan,418000.0,2200.0,Diesel,Manual,4000.0
 Opel,Vectra,2004,Sedan,335000.0,1800.0,Metan/Propan,Manual,4000.0
 Volkswagen,Transporter,1999,Minivan,39500.0,2500.0,Diesel,Manual,4450.0
-Rare,F3,2012,Sedan,144000.0,1500.0,Petrol,Manual,2300.0
+Byd,F3,2012,Sedan,144000.0,1500.0,Petrol,Manual,2300.0
 Volkswagen,Golf,2006,Hatchback,170000.0,1600.0,Petrol,Automatic,5200.0
 Ford,Escape,2010,Crossover,200000.0,2500.0,Hybrid,Automatic,9800.0
 Toyota,Avalon,2013,Sedan,125000.0,2500.0,Hybrid,Automatic,13800.0
@@ -25940,7 +25940,7 @@ Volkswagen,Golf,2008,Hatchback,200000.0,1400.0,Petrol,Automatic,5490.0
 Mercedes,C Class,2013,Sedan,138000.0,1800.0,Petrol,Automatic,12000.0
 Mercedes,GLA,2018,Hatchback,50000.0,1600.0,Petrol,Automatic,23000.0
 Mercedes,E Class,2000,Sedan,400000.0,2200.0,Diesel,Automatic,4600.0
-Rare,9-5,2008,Universal,299000.0,2000.0,Metan/Propan,Automatic,4500.0
+Saab,9-5,2008,Universal,299000.0,2000.0,Metan/Propan,Automatic,4500.0
 Skoda,Fabia,2009,Universal,260000.0,1400.0,Diesel,Manual,4500.0
 Opel,Omega,1995,Sedan,295000.0,2000.0,Petrol,Manual,1100.0
 BMW,3 Series,2014,Sedan,60000.0,2000.0,Petrol,Automatic,15450.0
@@ -26000,13 +26000,13 @@ BMW,5 Series,2013,Sedan,168000.0,2000.0,Diesel,Automatic,22999.0
 Volkswagen,Passat,2014,Universal,126000.0,1400.0,Metan/Propan,Automatic,9350.0
 Audi,A6,2014,Sedan,118000.0,2000.0,Diesel,Automatic,17750.0
 Audi,A5,2012,Coupe,136700.0,1984.0,Petrol,Automatic,11800.0
-Rare,969,1988,SUV,6000.0,400.0,Petrol,Manual,17508.0
+LuAZ,969,1988,SUV,6000.0,400.0,Petrol,Manual,17508.0
 Mercedes,E Class,2008,Universal,215000.0,3000.0,Diesel,Automatic,12000.0
 Subaru,Trezia,2011,Minivan,175000.0,1396.0,Diesel,Automatic,6500.0
 Hyundai,Elantra,2020,Sedan,27700.0,1600.0,Petrol,Automatic,15700.0
 BMW,5 Series,1990,Sedan,350000.0,1991.0,Metan/Propan,Manual,1100.0
 Toyota,Auris,2014,Universal,134000.0,1400.0,Diesel,Manual,8800.0
-Rare,Largus,2001,Universal,8852.0,1600.0,Metan/Propan,Manual,10000.0
+Lada,Largus,2001,Universal,8852.0,1600.0,Metan/Propan,Manual,10000.0
 Mazda,6,2010,Sedan,202500.0,220.0,Diesel,Manual,2500.0
 BMW,3 Series,2004,Universal,300000.0,1800.0,Petrol,Manual,5150.0
 Audi,Q5,2013,Crossover,80200.0,2000.0,Petrol,Automatic,20800.0
@@ -26102,7 +26102,7 @@ Opel,Vivaro,2004,Microvan,240000.0,1900.0,Diesel,Manual,5800.0
 Hyundai,Accent,1995,Sedan,18888.0,1300.0,Petrol,Manual,13000.0
 Honda,CR-V,2001,Crossover,130000.0,2000.0,Petrol,Manual,4600.0
 Toyota,Prius,2008,Hatchback,250000.0,1500.0,Hybrid,Automatic,6500.0
-Rare,Hover,2011,SUV,300000.0,200.0,Petrol,Manual,3999.0
+Great Wall,Hover,2011,SUV,300000.0,200.0,Petrol,Manual,3999.0
 Rover,25,2003,Hatchback,210000.0,1400.0,Petrol,Manual,1600.0
 Skoda,Fabia,2002,Universal,217386.0,1400.0,Petrol,Manual,3200.0
 Renault,ZOE,2019,Hatchback,4700.0,0.0,Electric,Automatic,16100.0
@@ -26139,7 +26139,7 @@ BMW,X1,2011,SUV,205000.0,2000.0,Diesel,Automatic,13400.0
 Land Rover,Freelander,2009,Crossover,229000.0,2200.0,Diesel,Automatic,10800.0
 Volkswagen,Passat,2010,Hatchback,250000.0,1400.0,Metan/Propan,Manual,6900.0
 Nissan,Primera,2004,Sedan,123000.0,1800.0,Petrol,Automatic,1800.0
-Rare,on-DO,2016,Sedan,12000.0,1600.0,Petrol,Automatic,2500.0
+Datsun,on-DO,2016,Sedan,12000.0,1600.0,Petrol,Automatic,2500.0
 BMW,3 Series,2011,Sedan,156000.0,2000.0,Petrol,Automatic,5900.0
 Dacia,Duster,2012,SUV,45000.0,1600.0,Petrol,Manual,4700.0
 Rover,75,2001,Sedan,125600.0,2000.0,Petrol,Manual,1500.0
@@ -26168,7 +26168,7 @@ Lexus,RX Series,2006,SUV,189000.0,3000.0,Metan/Propan,Automatic,5900.0
 Volvo,XC70,2006,Universal,125000.0,2500.0,Petrol,Automatic,5200.0
 Mercedes,A Class,2006,Hatchback,156000.0,1400.0,Petrol,Manual,2700.0
 Lexus,Es Series,2014,Sedan,48000.0,2500.0,Hybrid,Automatic,12200.0
-Rare,F3,2009,Sedan,75000.0,1500.0,Petrol,Manual,1100.0
+Byd,F3,2009,Sedan,75000.0,1500.0,Petrol,Manual,1100.0
 Mitsubishi,Outlander,2010,SUV,87000.0,2000.0,Petrol,Manual,5900.0
 KIA,Sportage,2005,SUV,187000.0,2000.0,Diesel,Manual,3700.0
 Toyota,Yaris,2010,Hatchback,112000.0,1400.0,Petrol,Automatic,3150.0
@@ -26197,7 +26197,7 @@ Ford,Escape,2017,SUV,153742.0,1500.0,Petrol,Automatic,11100.0
 Honda,Accord,2016,Sedan,176000.0,2400.0,Petrol,Automatic,11650.0
 Toyota,Camry,2013,Sedan,118125.0,2500.0,Hybrid,Automatic,11300.0
 Opel,Vectra,1992,Sedan,260300.0,2000.0,Metan/Propan,Manual,650.0
-Rare,Vita,2009,Sedan,184000.0,1500.0,Metan/Propan,Manual,2000.0
+Faw,Vita,2009,Sedan,184000.0,1500.0,Metan/Propan,Manual,2000.0
 Toyota,Rav 4,2001,Crossover,238000.0,2000.0,Metan/Propan,Automatic,4800.0
 Mazda,626,1990,Hatchback,330000.0,1998.0,Petrol,Manual,1350.0
 KIA,Ceed,2010,Sedan,175000.0,1400.0,Metan/Propan,Manual,5200.0
@@ -26435,7 +26435,7 @@ Volkswagen,Jetta,1987,Sedan,32000.0,1600.0,Petrol,Manual,550.0
 Mercedes,C Class,1993,Sedan,337500.0,1800.0,Petrol,Automatic,3000.0
 Ford,Focus,2016,Universal,177000.0,1500.0,Diesel,Manual,8400.0
 Ford,Mondeo,2002,Sedan,300000.0,2000.0,Metan/Propan,Manual,3650.0
-Rare,BS6,2007,Sedan,134000.0,2000.0,Metan/Propan,Manual,2800.0
+Brilliance,BS6,2007,Sedan,134000.0,2000.0,Metan/Propan,Manual,2800.0
 Opel,Zafira,2008,Sedan,245000.0,1900.0,Diesel,Manual,2500.0
 BMW,X5,2013,SUV,90000.0,3000.0,Petrol,Automatic,16999.0
 Mercedes,B Class,2019,Minivan,44000.0,1460.0,Diesel,Automatic,24600.0
@@ -26459,9 +26459,9 @@ Ford,Mustang,2018,Coupe,22411.0,2300.0,Petrol,Automatic,15900.0
 Volvo,S60,2020,Sedan,18000.0,2000.0,Petrol,Automatic,19900.0
 Skoda,Superb,2010,Sedan,202000.0,1400.0,Petrol,Manual,6300.0
 Toyota,Prius,2008,Hatchback,123500.0,1500.0,Hybrid,Automatic,6500.0
-Rare,620,2008,Sedan,22282.0,1596.0,Petrol,Manual,3300.0
+Lifan,620,2008,Sedan,22282.0,1596.0,Petrol,Manual,3300.0
 Mercedes,S Class,2011,Sedan,40700.0,5000.0,Petrol,Automatic,23500.0
-Rare,9-5,2002,Sedan,265000.0,2300.0,Petrol,Manual,2800.0
+Saab,9-5,2002,Sedan,265000.0,2300.0,Petrol,Manual,2800.0
 Land Rover,Range Rover,2008,SUV,176000.0,3600.0,Diesel,Automatic,17900.0
 BMW,5 Series,2008,Sedan,212000.0,3000.0,Diesel,Automatic,7800.0
 Volkswagen,Jetta,1991,Sedan,240000.0,1300.0,Petrol,Manual,1300.0
@@ -26479,7 +26479,7 @@ Volkswagen,Caddy,2017,Minivan,135000.0,2000.0,Diesel,Manual,9799.0
 Nissan,Pathfinder,2005,SUV,230000.0,2500.0,Diesel,Manual,11999.0
 Volkswagen,Caddy,2005,Combi,460000.0,1890.0,Diesel,Manual,3599.0
 Volkswagen,Multivan,2000,Minivan,407000.0,2500.0,Diesel,Manual,5000.0
-Rare,Hover,2008,SUV,146000.0,2400.0,Metan/Propan,Manual,6000.0
+Great Wall,Hover,2008,SUV,146000.0,2400.0,Metan/Propan,Manual,6000.0
 Volkswagen,Passat,2010,Sedan,155555.0,1400.0,Petrol,Manual,7499.0
 Toyota,Verso,2016,Universal,115000.0,1600.0,Diesel,Manual,12499.0
 Hyundai,Tucson,2008,Crossover,155000.0,2000.0,Petrol,Manual,7500.0
@@ -26802,7 +26802,7 @@ Volkswagen,Tiguan,2012,SUV,185255.0,1390.0,Petrol,Manual,11000.0
 Volkswagen,Passat,2017,Sedan,75000.0,1400.0,Petrol,Automatic,16600.0
 Skoda,Superb,2011,SUV,261000.0,2000.0,Petrol,Automatic,9500.0
 Infiniti,Q Series,2017,Sedan,5000.0,2200.0,Diesel,Automatic,22000.0
-Rare,Lybra,2001,Universal,198520.0,1900.0,Diesel,Manual,750.0
+Lancia,Lybra,2001,Universal,198520.0,1900.0,Diesel,Manual,750.0
 BMW,5 Series,2001,Universal,28400.0,2500.0,Diesel,Manual,1250.0
 Volkswagen,Passat,2012,Universal,156000.0,1400.0,Metan/Propan,Manual,8399.0
 Nissan,Qashqai+2,2011,Crossover,171000.0,1500.0,Diesel,Manual,8999.0
@@ -26951,7 +26951,7 @@ Subaru,Crosstrek,2015,Crossover,175689.0,2000.0,Hybrid,Automatic,12000.0
 Skoda,Octavia,2008,Hatchback,232000.0,1600.0,Petrol,Manual,3999.0
 KIA,Sorento,2010,SUV,220000.0,2200.0,Diesel,Manual,7000.0
 Renault,Megane,2013,Universal,165509.0,1500.0,Diesel,Manual,6600.0
-Rare,Breez,2008,Sedan,100000.0,1300.0,Petrol,Manual,1400.0
+Lifan,Breez,2008,Sedan,100000.0,1300.0,Petrol,Manual,1400.0
 Toyota,Camry,2006,Sedan,250333.0,2400.0,Metan/Propan,Manual,5000.0
 Volkswagen,Passat,2011,Sedan,185000.0,1900.0,Diesel,Manual,6500.0
 Dacia,Logan,2006,Sedan,120000.0,1400.0,Petrol,Manual,3299.0
@@ -27414,7 +27414,7 @@ BMW,X3,2016,SUV,69700.0,2000.0,Petrol,Automatic,23500.0
 Toyota,Auris,2015,Universal,205000.0,1800.0,Hybrid,Automatic,11400.0
 Renault,Kangoo,2002,Universal,320024.0,1490.0,Diesel,Manual,1300.0
 Volkswagen,Beetle,1998,Universal,148627.0,200.0,Petrol,Automatic,2500.0
-Rare,Thesis,2008,Sedan,160000.0,2400.0,Diesel,Automatic,5100.0
+Lancia,Thesis,2008,Sedan,160000.0,2400.0,Diesel,Automatic,5100.0
 Volkswagen,Touran,2004,Universal,390000.0,2000.0,Diesel,Manual,5300.0
 Ssangyong,Actyon,2007,Crossover,210000.0,2000.0,Diesel,Manual,2900.0
 Volkswagen,Sharan,2009,Minivan,231000.0,1900.0,Diesel,Automatic,9700.0
@@ -27471,7 +27471,7 @@ Volkswagen,Tiguan,2009,Sedan,192000.0,2000.0,Petrol,Automatic,9600.0
 Rover,45,2003,Hatchback,281900.0,1400.0,Metan/Propan,Manual,1500.0
 Subaru,Legacy,1993,Universal,150000.0,1800.0,Metan/Propan,Manual,1500.0
 Toyota,Urban Cruiser,2012,Hatchback,118000.0,1400.0,Diesel,Manual,8750.0
-Rare,Altele,2003,Sedan,140000.0,2200.0,Metan/Propan,Manual,3250.0
+Saturn,Altele,2003,Sedan,140000.0,2200.0,Metan/Propan,Manual,3250.0
 Volkswagen,Passat,2012,Microvan,187000.0,2000.0,Diesel,Automatic,13800.0
 Subaru,Legacy,2010,Sedan,135000.0,1994.0,Petrol,Automatic,9000.0
 Dacia,Sandero,2010,Hatchback,240000.0,1461.0,Diesel,Manual,3300.0
@@ -27606,7 +27606,7 @@ Mercedes,E Class,2003,Sedan,430000.0,2700.0,Diesel,Automatic,3500.0
 Nissan,Primera,1992,Sedan,200000.0,1999.0,Petrol,Manual,500.0
 Jeep,Grand Cherokee,2001,SUV,280000.0,2700.0,Diesel,Automatic,3500.0
 Nissan,Almera Tino,2003,Minivan,273000.0,2200.0,Diesel,Manual,2800.0
-Rare,Terrain,2018,Crossover,26300.0,1600.0,Diesel,Automatic,17550.0
+GMC,Terrain,2018,Crossover,26300.0,1600.0,Diesel,Automatic,17550.0
 Volkswagen,Touran,2010,Microvan,169000.0,1400.0,Petrol,Manual,7300.0
 Volkswagen,Golf,2002,Universal,198500.0,1390.0,Petrol,Manual,3500.0
 Hyundai,Tucson,2010,Crossover,200000.0,2000.0,Petrol,Automatic,9700.0
@@ -28066,7 +28066,7 @@ Toyota,Rav 4,2007,Crossover,300000.0,2002.0,Diesel,Manual,8200.0
 Mercedes,E Class,2003,Sedan,400000.0,2700.0,Diesel,Automatic,4700.0
 BMW,5 Series,1992,Sedan,222222.0,2000.0,Petrol,Manual,1500.0
 Honda,CR-V,2014,Crossover,180000.0,2000.0,Petrol,Automatic,13500.0
-Rare,Thema,1994,Universal,221685.0,2000.0,Petrol,Manual,900.0
+Lancia,Thema,1994,Universal,221685.0,2000.0,Petrol,Manual,900.0
 Volkswagen,Golf,2005,Hatchback,216000.0,200.0,Petrol,Automatic,6000.0
 Volvo,XC90,2011,Crossover,270000.0,2400.0,Diesel,Automatic,14500.0
 Opel,Astra,1994,Sedan,186056.0,1600.0,Petrol,Manual,1500.0
@@ -28195,7 +28195,7 @@ BMW,X6,2015,SUV,116000.0,381.0,Petrol,Automatic,25000.0
 Volkswagen,Caravelle,2003,Minivan,280000.0,2498.0,Diesel,Manual,7900.0
 Audi,A6,2002,Universal,330000.0,2500.0,Diesel,Automatic,4500.0
 Mercedes,S Class,2009,Sedan,220000.0,3500.0,Petrol,Automatic,12990.0
-Rare,F3,2010,Hatchback,91000.0,1600.0,Metan/Propan,Manual,1000.0
+Byd,F3,2010,Hatchback,91000.0,1600.0,Metan/Propan,Manual,1000.0
 Opel,Meriva,2011,Microvan,210000.0,1300.0,Diesel,Manual,5000.0
 Renault,Megane,2006,Universal,270000.0,1500.0,Diesel,Manual,3800.0
 Volkswagen,Golf,2005,Hatchback,280000.0,1400.0,Metan/Propan,Manual,3300.0
@@ -28361,7 +28361,7 @@ Dacia,Sandero,2010,Hatchback,173000.0,1500.0,Diesel,Manual,4200.0
 Volkswagen,Passat,1995,Sedan,444444.0,1900.0,Diesel,Manual,2500.0
 Ford,Orion,1991,Sedan,94185.0,1400.0,Petrol,Manual,450.0
 Mercedes,M Class,2008,SUV,206000.0,2896.0,Diesel,Automatic,13899.0
-Rare,BS6,2007,Sedan,325484.0,2400.0,Metan/Propan,Manual,1699.0
+Brilliance,BS6,2007,Sedan,325484.0,2400.0,Metan/Propan,Manual,1699.0
 Dacia,Duster,2011,SUV,205000.0,1500.0,Diesel,Manual,6300.0
 Mercedes,C Class,1994,Sedan,265000.0,1800.0,Metan/Propan,Manual,2200.0
 Toyota,Corolla,2004,Universal,100000.0,1400.0,Diesel,Manual,5500.0
@@ -28538,10 +28538,10 @@ Lexus,NX Series,2015,Crossover,145000.0,2500.0,Hybrid,Automatic,25500.0
 Mitsubishi,Galant,1997,Sedan,215000.0,1997.0,Petrol,Manual,3000.0
 Rover,600 Series,1997,Sedan,332300.0,1997.0,Metan/Propan,Manual,1900.0
 Volkswagen,Passat,2002,Sedan,338000.0,1800.0,Petrol,Automatic,3100.0
-Rare,Phedra,2004,Minivan,161000.0,2200.0,Diesel,Manual,4999.0
+Lancia,Phedra,2004,Minivan,161000.0,2200.0,Diesel,Manual,4999.0
 Audi,A4,2007,Universal,320000.0,2000.0,Diesel,Manual,7000.0
 Mercedes,E Class,1995,Universal,335000.0,2500.0,Diesel,Manual,4300.0
-Rare,Qq,2008,Universal,130000.0,800.0,Petrol,Manual,2300.0
+Chery,Qq,2008,Universal,130000.0,800.0,Petrol,Manual,2300.0
 Toyota,Land Cruiser Prado,2006,SUV,123486.0,3000.0,Diesel,Automatic,10000.0
 BMW,5 Series,1999,Sedan,123456.0,2500.0,Diesel,Manual,2000.0
 Audi,80,1993,Sedan,123456.0,1900.0,Diesel,Manual,1500.0
@@ -28561,7 +28561,7 @@ Mitsubishi,Outlander,2014,Crossover,225000.0,2000.0,Plug-in Hybrid,Automatic,129
 Vaz,2107,2006,Sedan,120000.0,1568.0,Petrol,Manual,1400.0
 Volkswagen,Golf Plus,2007,Minivan,200000.0,1390.0,Metan/Propan,Manual,5000.0
 Audi,A5,2013,Coupe,97000.0,2000.0,Petrol,Automatic,16199.0
-Rare,MDX,2001,Crossover,300000.0,3500.0,Petrol,Automatic,2700.0
+Acura,MDX,2001,Crossover,300000.0,3500.0,Petrol,Automatic,2700.0
 Opel,Astra,2005,Universal,2222.0,1800.0,Metan/Propan,Manual,4500.0
 Volkswagen,Passat,2013,Universal,152328.0,1400.0,Petrol,Manual,7850.0
 Opel,Vectra,2007,Sedan,220000.0,1800.0,Petrol,Manual,2700.0
@@ -28673,8 +28673,8 @@ Skoda,Octavia,2017,Sedan,122000.0,1598.0,Diesel,Manual,13999.0
 Volkswagen,Passat,2001,Universal,340000.0,1900.0,Diesel,Manual,1000.0
 Volkswagen,Golf,2001,Sedan,190000.0,1600.0,Petrol,Manual,3350.0
 Rover,45,2001,Sedan,215000.0,2000.0,Metan/Propan,Automatic,3199.0
-Rare,Encore,2018,Crossover,10000.0,1400.0,Petrol,Automatic,14900.0
-Rare,Envision,2019,SUV,6000.0,2000.0,Petrol,Automatic,28200.0
+Buick,Encore,2018,Crossover,10000.0,1400.0,Petrol,Automatic,14900.0
+Buick,Envision,2019,SUV,6000.0,2000.0,Petrol,Automatic,28200.0
 Nissan,Juke,2017,Crossover,56000.0,1500.0,Diesel,Manual,13100.0
 Audi,A4,2005,Universal,178000.0,1968.0,Diesel,Automatic,7500.0
 Ford,Mondeo,2008,Sedan,137000.0,1999.0,Petrol,Manual,6999.0
@@ -28781,7 +28781,7 @@ Volkswagen,Caddy,2006,Pickup,300000.0,1900.0,Diesel,Manual,4000.0
 BMW,2 Series,2016,Universal,190000.0,1500.0,Diesel,Automatic,12000.0
 Renault,Trafic,2008,Microvan,350573.0,1998.0,Diesel,Manual,6555.0
 Honda,CR-V,2005,Crossover,246720.0,2200.0,Diesel,Manual,8200.0
-Rare,Hover,2007,SUV,160000.0,2400.0,Metan/Propan,Manual,6200.0
+Great Wall,Hover,2007,SUV,160000.0,2400.0,Metan/Propan,Manual,6200.0
 Opel,Zafira,2006,Minivan,360000.0,1590.0,Metan/Propan,Manual,4500.0
 Vaz,2106,1984,Sedan,41916.0,1600.0,Petrol,Manual,16000.0
 Toyota,Crown,2000,Sedan,195000.0,2500.0,Petrol,Automatic,9000.0
@@ -28836,8 +28836,8 @@ Nissan,Qashqai,2016,SUV,131000.0,1600.0,Diesel,Automatic,11300.0
 Suzuki,Swift,2009,Hatchback,180000.0,1500.0,Petrol,Manual,3000.0
 Seat,Cordoba,2005,Sedan,120000.0,1400.0,Diesel,Manual,2850.0
 Honda,Jazz,2007,Hatchback,180000.0,1400.0,Petrol,Automatic,3000.0
-Rare,Hover,2010,Crossover,140000.0,2400.0,Petrol,Manual,4000.0
-Rare,Altele,2008,Coupe,258880.0,1300.0,Petrol,Manual,850.0
+Great Wall,Hover,2010,Crossover,140000.0,2400.0,Petrol,Manual,4000.0
+Lifan,Altele,2008,Coupe,258880.0,1300.0,Petrol,Manual,850.0
 Nissan,X-Trail,2015,SUV,162000.0,1600.0,Diesel,Manual,12900.0
 Toyota,Avensis,2007,Sedan,320000.0,200.0,Petrol,Automatic,6500.0
 Mercedes,E Class,2002,Sedan,380000.0,2148.0,Diesel,Manual,5200.0
@@ -28876,7 +28876,7 @@ Citroen,C3,2006,Hatchback,56000.0,1400.0,Petrol,Manual,1700.0
 Peugeot,208,2013,Hatchback,25000.0,1200.0,Petrol,Manual,3700.0
 Toyota,Corolla,2005,Sedan,143000.0,1600.0,Petrol,Manual,1550.0
 Toyota,Avensis,2012,Sedan,136000.0,2200.0,Diesel,Automatic,7300.0
-Rare,F3,2006,Sedan,45000.0,1500.0,Metan/Propan,Manual,1000.0
+Byd,F3,2006,Sedan,45000.0,1500.0,Metan/Propan,Manual,1000.0
 Mitsubishi,Outlander,2005,Crossover,163000.0,2400.0,Metan/Propan,Automatic,3150.0
 Toyota,Urban Cruiser,2009,Hatchback,102000.0,1400.0,Petrol,Manual,3900.0
 KIA,Ceed,2014,Universal,5888.0,1800.0,Diesel,Automatic,4500.0
@@ -28986,7 +28986,7 @@ Renault,Scenic,2004,Sedan,300000.0,1500.0,Diesel,Manual,2600.0
 Volkswagen,Golf,2001,Hatchback,256699.0,1900.0,Diesel,Automatic,2200.0
 Opel,Zafira,2006,Minivan,270000.0,1900.0,Diesel,Manual,3000.0
 BMW,5 Series,1999,Sedan,400000.0,3000.0,Diesel,Manual,2200.0
-Rare,S Klass,2001,Sedan,250000.0,4000.0,Diesel,Automatic,3000.0
+Mercedes-Maybach,S Klass,2001,Sedan,250000.0,4000.0,Diesel,Automatic,3000.0
 Toyota,Verso,2011,Minivan,260000.0,1999.0,Diesel,Manual,8999.0
 Citroen,Berlingo,2006,Microvan,50000.0,1400.0,Metan/Propan,Manual,2700.0
 Volkswagen,Golf,2000,Hatchback,220000.0,1400.0,Petrol,Manual,2500.0
@@ -29037,7 +29037,7 @@ Opel,Vectra,1994,Sedan,320765.0,1598.0,Metan/Propan,Manual,1500.0
 Volvo,XC90,2005,Crossover,320000.0,2400.0,Diesel,Automatic,9000.0
 BMW,5 Series,2013,Sedan,250000.0,2500.0,Diesel,Automatic,21200.0
 Toyota,Corolla,2010,Sedan,185000.0,1600.0,Petrol,Automatic,7400.0
-Rare,Altele,2006,Universal,100000.0,1900.0,Diesel,Manual,1500.0
+Saab,Altele,2006,Universal,100000.0,1900.0,Diesel,Manual,1500.0
 Opel,Astra,1996,Universal,240000.0,1800.0,Petrol,Manual,1500.0
 Audi,A4,2007,Cabriolet,270000.0,2000.0,Diesel,Automatic,5500.0
 Nissan,Qashqai+2,2010,Crossover,173000.0,1461.0,Diesel,Manual,8600.0
@@ -29285,7 +29285,7 @@ Toyota,Auris,2014,Universal,130000.0,1400.0,Diesel,Manual,9000.0
 Toyota,Camry,2016,Sedan,81000.0,2500.0,Metan/Propan,Automatic,12990.0
 Toyota,Prius v,2012,Universal,189000.0,1999.0,Hybrid,Automatic,9000.0
 Dacia,Logan,2005,Sedan,25000.0,1400.0,Metan/Propan,Manual,2300.0
-Rare,H3,2005,SUV,200000.0,3500.0,Metan/Propan,Automatic,15000.0
+Hummer,H3,2005,SUV,200000.0,3500.0,Metan/Propan,Automatic,15000.0
 Mercedes,B Class,2019,Microvan,42000.0,1460.0,Diesel,Automatic,24600.0
 Nissan,Primera,1992,Sedan,123456.0,1600.0,Petrol,Manual,999.0
 Audi,100,1983,Sedan,1983.0,1800.0,Petrol,Manual,1000.0
@@ -29310,7 +29310,7 @@ Renault,Megane,2010,Universal,270000.0,1499.0,Diesel,Manual,4200.0
 Fiat,Stilo,2003,Hatchback,348000.0,1910.0,Diesel,Manual,1150.0
 Mercedes,E Class,2011,Sedan,247000.0,2200.0,Diesel,Automatic,13300.0
 KIA,Picanto,2005,Hatchback,130000.0,1090.0,Petrol,Manual,2500.0
-Rare,968,1991,Coupe,2021.0,996.0,Petrol,Manual,250.0
+Zaz,968,1991,Coupe,2021.0,996.0,Petrol,Manual,250.0
 Opel,Corsa,2003,Hatchback,250000.0,1300.0,Diesel,Manual,1700.0
 Opel,Astra,2015,Universal,171500.0,1400.0,Petrol,Manual,7700.0
 Audi,A4,2013,Combi,203000.0,1989.0,Diesel,Manual,12550.0
@@ -29387,7 +29387,7 @@ Vaz,2106,1988,Sedan,11111.0,1350.0,Petrol,Manual,16000.0
 Citroen,DS5,2012,Universal,139000.0,1999.0,Hybrid,Automatic,10999.0
 Volvo,XC60,2013,Crossover,200000.0,2400.0,Diesel,Automatic,18999.0
 Volvo,S80,2007,Sedan,330000.0,2400.0,Diesel,Automatic,8250.0
-Rare,Granta,1986,Sedan,100000.0,1600.0,Petrol,Manual,6000.0
+Lada,Granta,1986,Sedan,100000.0,1600.0,Petrol,Manual,6000.0
 Mercedes,CLA,2015,Sedan,194000.0,1600.0,Diesel,Automatic,15500.0
 BMW,5 Series,1995,Sedan,450000.0,2000.0,Petrol,Manual,990.0
 Volkswagen,Caddy,2011,Minivan,196000.0,1600.0,Diesel,Manual,9500.0
@@ -29412,7 +29412,7 @@ Toyota,Avensis,2002,Sedan,2225.0,1800.0,Petrol,Manual,3200.0
 Toyota,Avensis Verso,2004,Minivan,300000.0,2000.0,Diesel,Manual,7000.0
 Ford,Mondeo,2016,Universal,169120.0,1500.0,Diesel,Manual,10150.0
 Opel,Corsa,2014,Hatchback,88584.0,1300.0,Diesel,Manual,5950.0
-Rare,Freema,2008,Minivan,102000.0,1800.0,Petrol,Automatic,4500.0
+Haima,Freema,2008,Minivan,102000.0,1800.0,Petrol,Automatic,4500.0
 Volkswagen,Golf,2007,Hatchback,271000.0,1390.0,Petrol,Manual,4300.0
 Lexus,LS Series,2007,Sedan,210000.0,4600.0,Petrol,Automatic,15000.0
 Opel,Corsa,2010,Hatchback,86000.0,1200.0,Petrol,Manual,4300.0
@@ -29959,7 +29959,7 @@ Volkswagen,Touran,2007,Minivan,100000.0,1400.0,Petrol,Manual,7000.0
 Alta marca,Alt model,1994,Sedan,200000.0,2800.0,Metan/Propan,Manual,2000.0
 Vaz,21099,2001,Sedan,150000.0,1500.0,Metan/Propan,Manual,1700.0
 UAZ,469,2000,Cabriolet,5889.0,2000.0,Petrol,Manual,2500.0
-Rare,R4,1994,Cabriolet,30000.0,1400.0,Petrol,Manual,1400.0
+Ravon,R4,1994,Cabriolet,30000.0,1400.0,Petrol,Manual,1400.0
 Mitsubishi,Outlander,2004,SUV,112000.0,2000.0,Petrol,Manual,3200.0
 Mazda,626,1994,Hatchback,178000.0,1800.0,Petrol,Manual,550.0
 Mazda,2,2004,Hatchback,152000.0,1500.0,Petrol,Manual,1400.0
@@ -29974,12 +29974,12 @@ BMW,5 Series,2014,Sedan,135000.0,1995.0,Diesel,Manual,17500.0
 Volkswagen,Golf,2005,Coupe,280000.0,1400.0,Metan/Propan,Manual,3300.0
 Skoda,Roomster,2010,Minivan,224000.0,1200.0,Diesel,Manual,4500.0
 Volkswagen,Lupo,2001,Hatchback,65000.0,1200.0,Diesel,Manual,1300.0
-Rare,Hover,2008,SUV,87500.0,2400.0,Petrol,Manual,2800.0
+Great Wall,Hover,2008,SUV,87500.0,2400.0,Petrol,Manual,2800.0
 Volkswagen,Golf,2003,Universal,189000.0,1400.0,Petrol,Manual,1700.0
 Volkswagen,Caddy,2009,Minivan,367907.0,1900.0,Diesel,Manual,5400.0
 Renault,Espace,2004,Minivan,123000.0,2000.0,Petrol,Manual,2350.0
 Citroen,C3,2006,Hatchback,123500.0,1400.0,Diesel,Manual,1550.0
-Rare,Qq,2008,Hatchback,23000.0,800.0,Petrol,Manual,1100.0
+Chery,Qq,2008,Hatchback,23000.0,800.0,Petrol,Manual,1100.0
 Renault,Scenic,2010,Minivan,189000.0,1500.0,Diesel,Manual,3800.0
 Audi,A4,2009,Sedan,115000.0,2000.0,Petrol,Manual,5300.0
 Hyundai,Getz,2005,Hatchback,156000.0,1400.0,Diesel,Manual,1700.0
@@ -30269,7 +30269,7 @@ Peugeot,2008,2021,Crossover,2500.0,1500.0,Diesel,Automatic,21200.0
 Volkswagen,Touareg,2016,SUV,40000.0,3000.0,Diesel,Automatic,9799.0
 Nissan,Pixo,2009,Universal,112000.0,100.0,Petrol,Manual,3150.0
 Mercedes,E Class,1989,Sedan,275000.0,2000.0,Petrol,Manual,1900.0
-Rare,Altele,2019,SUV,49300.0,2400.0,Petrol,Automatic,21500.0
+Geely,Altele,2019,SUV,49300.0,2400.0,Petrol,Automatic,21500.0
 Mitsubishi,Lancer,2011,Sedan,299000.0,1499.0,Petrol,Manual,4500.0
 Dacia,Logan,2016,Sedan,191000.0,1200.0,Metan/Propan,Manual,4300.0
 Dacia,Duster,2013,SUV,150000.0,1500.0,Diesel,Manual,7100.0
@@ -30559,7 +30559,7 @@ KIA,Ceed,2008,Hatchback,220000.0,1600.0,Petrol,Manual,3999.0
 Renault,Megane,2006,Universal,190000.0,1500.0,Diesel,Manual,3950.0
 Volkswagen,Golf,2002,Hatchback,203433.0,1900.0,Diesel,Manual,4000.0
 Opel,Astra,2009,Sedan,206000.0,1300.0,Diesel,Manual,5330.0
-Rare,9-5,2006,Sedan,350000.0,1900.0,Diesel,Automatic,3500.0
+Saab,9-5,2006,Sedan,350000.0,1900.0,Diesel,Automatic,3500.0
 Dacia,Sandero,2014,Hatchback,299000.0,1200.0,Metan/Propan,Manual,4000.0
 Nissan,Sunny,1993,Hatchback,350000.0,1400.0,Petrol,Manual,1100.0
 Ford,Fusion,2017,Sedan,88000.0,2000.0,Plug-in Hybrid,Automatic,18000.0
@@ -30588,7 +30588,7 @@ Toyota,Corolla,2003,Universal,240000.0,1400.0,Petrol,Manual,4100.0
 Renault,Megane,2015,Universal,85000.0,1500.0,Diesel,Manual,6990.0
 Mercedes,Altele,1998,SUV,400000.0,2900.0,Diesel,Manual,5300.0
 Renault,Megane,2011,Universal,190000.0,1500.0,Diesel,Automatic,5500.0
-Rare,Tiggo,2006,Crossover,171000.0,1998.0,Petrol,Manual,2000.0
+Chery,Tiggo,2006,Crossover,171000.0,1998.0,Petrol,Manual,2000.0
 Opel,Astra,1995,Universal,320000.0,1800.0,Petrol,Manual,1200.0
 Opel,Astra,1994,Universal,289000.0,1600.0,Petrol,Manual,1550.0
 Lexus,RX Series,2010,SUV,110000.0,3500.0,Petrol,Automatic,13000.0
@@ -30676,7 +30676,7 @@ Daewoo,Lanos,2001,Hatchback,132000.0,1400.0,Petrol,Manual,1100.0
 Toyota,Aygo,2016,Hatchback,12000.0,1000.0,Petrol,Automatic,4900.0
 Opel,Meriva,2013,Minivan,123000.0,1300.0,Diesel,Manual,3900.0
 Ford,Focus,2016,Universal,168500.0,1500.0,Diesel,Manual,8200.0
-Rare,Altele,1990,SUV,24324.0,2100.0,Petrol,Automatic,12000.0
+ARO,Altele,1990,SUV,24324.0,2100.0,Petrol,Automatic,12000.0
 BMW,M Models,2018,Coupe,12000.0,3000.0,Petrol,Automatic,35000.0
 Skoda,Fabia,2004,Universal,270000.0,1400.0,Petrol,Manual,3200.0
 Mercedes,GLK Class,2009,Crossover,195000.0,200.0,Diesel,Automatic,13999.0
@@ -30694,7 +30694,7 @@ Subaru,Legacy,2009,Universal,179000.0,2000.0,Diesel,Manual,4500.0
 BMW,X5,2004,SUV,191000.0,3000.0,Diesel,Automatic,4200.0
 Opel,Astra,2005,Hatchback,123000.0,1600.0,Petrol,Manual,2350.0
 Toyota,Urban Cruiser,2009,Hatchback,125000.0,1400.0,Diesel,Manual,4050.0
-Rare,Ypsilon,2008,Hatchback,83000.0,1400.0,Petrol,Automatic,2150.0
+Lancia,Ypsilon,2008,Hatchback,83000.0,1400.0,Petrol,Automatic,2150.0
 Peugeot,207,2006,Hatchback,125000.0,1400.0,Petrol,Manual,2400.0
 Volkswagen,Jetta,2019,Hatchback,23500.0,1400.0,Petrol,Automatic,13500.0
 Citroen,C2,2006,Hatchback,89000.0,1400.0,Petrol,Manual,1400.0
@@ -30889,7 +30889,7 @@ Toyota,Rav 4,2018,Crossover,52365.0,2500.0,Hybrid,Automatic,19500.0
 BMW,X1,2013,Crossover,181969.0,1995.0,Petrol,Automatic,7900.0
 Subaru,B9 Tribeca,2006,Crossover,101000.0,2998.0,Metan/Propan,Automatic,7800.0
 Toyota,Corolla Verso,2008,Universal,220000.0,1800.0,Metan/Propan,Manual,7500.0
-Rare,9-5,2004,Universal,230000.0,2200.0,Diesel,Automatic,4800.0
+Saab,9-5,2004,Universal,230000.0,2200.0,Diesel,Automatic,4800.0
 Renault,Megane,2011,Universal,296000.0,1500.0,Diesel,Manual,5300.0
 Mazda,626,1996,Hatchback,257000.0,2000.0,Petrol,Manual,600.0
 Vaz,2121niva,2008,SUV,87000.0,1700.0,Petrol,Manual,600.0
@@ -31037,7 +31037,7 @@ Volkswagen,Golf,2010,Universal,89000.0,1400.0,Petrol,Automatic,3600.0
 Hyundai,Matrix,2004,Hatchback,135000.0,1800.0,Metan/Propan,Manual,1850.0
 Dacia,Logan Mcv,2013,Universal,123000.0,1500.0,Diesel,Manual,1500.0
 Smart,Forfour,2004,Hatchback,112000.0,1300.0,Petrol,Manual,1550.0
-Rare,xA,2003,Sedan,125000.0,2000.0,Petrol,Automatic,2200.0
+Scion,xA,2003,Sedan,125000.0,2000.0,Petrol,Automatic,2200.0
 Toyota,Corolla,2005,Hatchback,132000.0,1600.0,Petrol,Manual,2600.0
 Mercedes,E Class,2001,Coupe,320000.0,2200.0,Diesel,Manual,1350.0
 Renault,Megane,2012,Universal,210000.0,1500.0,Diesel,Manual,5450.0
@@ -31046,7 +31046,7 @@ Skoda,Kodiaq,2021,Crossover,3500.0,1400.0,Petrol,Automatic,23000.0
 Audi,A6,1997,Sedan,400000.0,2369.0,Metan/Propan,Manual,1500.0
 Alfa Romeo,166,2003,Sedan,123500.0,2000.0,Petrol,Manual,1500.0
 Mazda,626,1991,Sedan,437000.0,1998.0,Petrol,Manual,1000.0
-Rare,Lybra,2000,Universal,123000.0,2000.0,Petrol,Manual,1200.0
+Lancia,Lybra,2000,Universal,123000.0,2000.0,Petrol,Manual,1200.0
 Toyota,Rav 4,2003,SUV,198000.0,2000.0,Petrol,Manual,3500.0
 Toyota,Yaris,2017,Hatchback,18000.0,1400.0,Hybrid,Automatic,5800.0
 Volkswagen,Passat,2011,Universal,190000.0,1400.0,Metan/Propan,Automatic,8500.0
@@ -31096,7 +31096,7 @@ Volkswagen,Jetta,1990,Sedan,318769.0,1600.0,Petrol,Manual,1500.0
 Honda,CR-V,2011,Minivan,149000.0,2199.0,Diesel,Manual,16800.0
 BMW,X5,2017,Minivan,125000.0,1999.0,Plug-in Hybrid,Automatic,40000.0
 Hyundai,Tucson,2017,SUV,145000.0,2000.0,Diesel,Automatic,19450.0
-Rare,Tiggo,2008,Crossover,90000.0,2000.0,Metan/Propan,Manual,2000.0
+Chery,Tiggo,2008,Crossover,90000.0,2000.0,Metan/Propan,Manual,2000.0
 Mercedes,A Class,2006,Hatchback,155000.0,1500.0,Petrol,Automatic,3500.0
 Toyota,Urban Cruiser,2010,Hatchback,120000.0,1400.0,Diesel,Manual,5800.0
 Volvo,XC60,2009,Crossover,187000.0,2400.0,Diesel,Manual,9999.0
@@ -31157,7 +31157,7 @@ Opel,Agila,2001,Sedan,190000.0,100.0,Petrol,Manual,1500.0
 Ford,Focus,2006,Universal,235000.0,1600.0,Diesel,Manual,4950.0
 Opel,Astra,2000,Universal,276000.0,1600.0,Metan/Propan,Manual,2500.0
 Tesla,Model S,2014,Sedan,36777.0,100.0,Electric,Automatic,29400.0
-Rare,969,1990,Sedan,10000.0,1000.0,Petrol,Manual,600.0
+LuAZ,969,1990,Sedan,10000.0,1000.0,Petrol,Manual,600.0
 Honda,CR-V,2006,SUV,16629.0,1998.0,Metan/Propan,Manual,8000.0
 Subaru,Outback,2010,Universal,222000.0,2000.0,Diesel,Manual,10600.0
 Mercedes,E Class,2001,Sedan,317000.0,3200.0,Diesel,Automatic,2800.0
@@ -31220,7 +31220,7 @@ Toyota,Prius v,2014,Hatchback,123000.0,1800.0,Hybrid,Automatic,6900.0
 Honda,Civic,2009,Sedan,102000.0,1500.0,Hybrid,Automatic,3350.0
 Seat,Ibiza,2016,Hatchback,25000.0,1000.0,Petrol,Manual,3700.0
 Opel,Insignia,2011,Universal,216000.0,2000.0,Diesel,Automatic,8500.0
-Rare,Hover,2011,SUV,45000.0,2000.0,Diesel,Manual,3700.0
+Great Wall,Hover,2011,SUV,45000.0,2000.0,Diesel,Manual,3700.0
 Mitsubishi,ASX,2013,Crossover,102000.0,2000.0,Petrol,Automatic,6700.0
 Suzuki,Ignis,2017,Hatchback,12000.0,1200.0,Petrol,Manual,4900.0
 Citroen,C3,2012,Hatchback,98000.0,1400.0,Diesel,Manual,3300.0
@@ -31279,7 +31279,7 @@ Dacia,Logan,2012,Sedan,11111.0,1600.0,Metan/Propan,Manual,3601.0
 Skoda,Fabia,2019,Hatchback,165000.0,999.0,Petrol,Manual,5800.0
 Nissan,Qashqai,2009,Sedan,192840.0,200.0,Diesel,Manual,6200.0
 Opel,Tigra,2005,Hatchback,89000.0,1400.0,Petrol,Manual,1700.0
-Rare,TSX,2008,Sedan,132000.0,2400.0,Petrol,Automatic,4700.0
+Acura,TSX,2008,Sedan,132000.0,2400.0,Petrol,Automatic,4700.0
 Audi,Q5,2015,Crossover,116000.0,2000.0,Petrol,Automatic,19000.0
 Mercedes,E Class,1997,Sedan,240000.0,2500.0,Diesel,Manual,4400.0
 Toyota,Auris,2016,Hatchback,150000.0,1400.0,Diesel,Manual,8000.0
@@ -31289,7 +31289,7 @@ Dacia,Sandero,2010,Hatchback,89000.0,1400.0,Petrol,Manual,2400.0
 Hyundai,Matrix,2008,Hatchback,132500.0,1500.0,Diesel,Manual,2200.0
 Opel,Astra,1999,Universal,161000.0,1700.0,Diesel,Manual,1550.0
 Skoda,Fabia,2008,Hatchback,330000.0,1400.0,Metan/Propan,Manual,3100.0
-Rare,Breez,2008,Sedan,108000.0,1300.0,Petrol,Manual,999.0
+Lifan,Breez,2008,Sedan,108000.0,1300.0,Petrol,Manual,999.0
 Honda,Civic,2016,Sedan,62000.0,1500.0,Petrol,Automatic,16999.0
 Mazda,MPV,2002,Minivan,100000.0,3000.0,Metan/Propan,Automatic,4000.0
 Volkswagen,Touran,2010,Minivan,210000.0,1400.0,Metan/Propan,Manual,5600.0
@@ -31347,7 +31347,7 @@ Mazda,323,1999,Sedan,300000.0,1500.0,Metan/Propan,Manual,2600.0
 Vaz,2106,1989,Sedan,98988.0,1600.0,Metan/Propan,Manual,3500.0
 Ford,Fusion,2014,Sedan,108000.0,1490.0,Petrol,Automatic,13000.0
 Nissan,Almera,2003,Sedan,316523.0,1497.0,Petrol,Manual,4000.0
-Rare,BS6,2009,Sedan,147000.0,200.0,Petrol,Manual,2200.0
+Brilliance,BS6,2009,Sedan,147000.0,200.0,Petrol,Manual,2200.0
 Skoda,Octavia,1998,Hatchback,300000.0,1600.0,Metan/Propan,Manual,2800.0
 Opel,Astra,2015,Universal,160000.0,160.0,Diesel,Manual,8900.0
 Ford,Sierra,1987,Sedan,90000.0,1800.0,Petrol,Manual,13000.0
@@ -31361,7 +31361,7 @@ Nissan,Primera,1997,Hatchback,450000.0,1600.0,Petrol,Manual,1100.0
 Mazda,626,1989,Hatchback,120999.0,2200.0,Metan/Propan,Manual,1200.0
 Audi,A6,1999,Sedan,320000.0,1800.0,Petrol,Manual,3500.0
 Volkswagen,Vento,1993,Sedan,20165.0,1800.0,Metan/Propan,Manual,1500.0
-Rare,9-3,2007,Sedan,181000.0,2000.0,Petrol,Automatic,4999.0
+Saab,9-3,2007,Sedan,181000.0,2000.0,Petrol,Automatic,4999.0
 Toyota,C-HR,2017,Crossover,76000.0,1800.0,Hybrid,Automatic,18750.0
 Skoda,Superb,2003,Sedan,340000.0,1800.0,Metan/Propan,Manual,3000.0
 Mercedes,E Class,2007,Sedan,245367.0,2200.0,Diesel,Automatic,6000.0
@@ -31507,7 +31507,7 @@ Volkswagen,Passat,2008,Sedan,166000.0,2000.0,Petrol,Manual,5900.0
 Audi,Q7,2013,Crossover,185000.0,3000.0,Diesel,Automatic,29800.0
 Volkswagen,Amarok,2013,Pickup,200000.0,2000.0,Diesel,Manual,18000.0
 Mercedes,E Class,2014,Sedan,157000.0,2000.0,Metan/Propan,Automatic,19300.0
-Rare,968,1988,Sedan,57900.0,887.0,Petrol,Manual,1300.0
+Zaz,968,1988,Sedan,57900.0,887.0,Petrol,Manual,1300.0
 Volvo,XC60,2012,Crossover,180000.0,2400.0,Diesel,Automatic,17300.0
 Toyota,Avensis,2006,Sedan,195000.0,1800.0,Metan/Propan,Automatic,5990.0
 Toyota,Corolla,2005,Universal,230000.0,1400.0,Diesel,Manual,4000.0
@@ -31690,7 +31690,7 @@ Hyundai,Santa FE,2014,SUV,184000.0,2200.0,Diesel,Automatic,18250.0
 Dacia,Logan Mcv,2008,Universal,326000.0,1400.0,Metan/Propan,Manual,2700.0
 Lexus,RX Series,2008,SUV,293123.0,3500.0,Petrol,Automatic,9500.0
 Opel,Corsa,2009,Hatchback,190533.0,1400.0,Metan/Propan,Manual,2700.0
-Rare,Altele,1996,Microvan,180000.0,1900.0,Diesel,Manual,2000.0
+Pontiac,Altele,1996,Microvan,180000.0,1900.0,Diesel,Manual,2000.0
 Volkswagen,Caddy,2008,Minivan,240000.0,1900.0,Diesel,Manual,5500.0
 Nissan,Qashqai+2,2012,Crossover,180000.0,1600.0,Diesel,Manual,9000.0
 Audi,A6,2001,Sedan,290000.0,1800.0,Petrol,Manual,3200.0
@@ -31817,9 +31817,9 @@ Hyundai,Tucson,2016,Crossover,158807.0,1699.0,Diesel,Automatic,13570.0
 Hyundai,Tucson,2017,Crossover,152214.0,1999.0,Diesel,Automatic,15600.0
 KIA,Sportage,2015,Crossover,138854.0,1999.0,Diesel,Automatic,14600.0
 Volkswagen,Golf,2014,Hatchback,190163.0,1999.0,Diesel,Automatic,11700.0
-Rare,Terrain,2018,Crossover,8000.0,1500.0,Petrol,Automatic,19500.0
+GMC,Terrain,2018,Crossover,8000.0,1500.0,Petrol,Automatic,19500.0
 Peugeot,607,2001,Sedan,2800.0,2200.0,Diesel,Manual,1500.0
-Rare,Breez,2008,Sedan,16000.0,1397.0,Petrol,Manual,1200.0
+Lifan,Breez,2008,Sedan,16000.0,1397.0,Petrol,Manual,1200.0
 Toyota,Prius,2010,Hatchback,176000.0,1800.0,Hybrid,Automatic,8200.0
 Mercedes,A Class,2020,Hatchback,16000.0,2000.0,Petrol,Automatic,29000.0
 BMW,5 Series,2012,Sedan,107800.0,2000.0,Petrol,Automatic,14999.0
@@ -31866,7 +31866,7 @@ Mercedes,E Class,2013,Sedan,182000.0,2143.0,Diesel,Automatic,17900.0
 Renault,Megane,2007,Hatchback,228900.0,1598.0,Metan/Propan,Manual,3900.0
 Volkswagen,Golf,2014,Hatchback,98993.0,1599.0,Diesel,Automatic,10100.0
 KIA,Sportage,2011,Crossover,148000.0,2000.0,Metan/Propan,Automatic,11500.0
-Rare,Delta,2008,Universal,190000.0,1600.0,Diesel,Manual,4500.0
+Lancia,Delta,2008,Universal,190000.0,1600.0,Diesel,Manual,4500.0
 Opel,Vectra,2000,Universal,250917.0,1800.0,Metan/Propan,Manual,2000.0
 Renault,Grand Scenic,2014,Minivan,169200.0,1500.0,Diesel,Automatic,8633.0
 Audi,A4,2009,Sedan,28000.0,2000.0,Diesel,Manual,5555.0
@@ -31997,7 +31997,7 @@ Lexus,CT Series,2011,Hatchback,100000.0,1800.0,Hybrid,Automatic,9000.0
 Toyota,Corolla,2006,Universal,183000.0,1400.0,Diesel,Manual,5990.0
 Vaz,Oka,2001,Hatchback,40000.0,750.0,Petrol,Manual,750.0
 Opel,Vectra,1993,Sedan,123456.0,1600.0,Petrol,Manual,500.0
-Rare,9-3,2006,Sedan,195109.0,1910.0,Diesel,Automatic,1999.0
+Saab,9-3,2006,Sedan,195109.0,1910.0,Diesel,Automatic,1999.0
 Toyota,Corolla,2005,Hatchback,250000.0,1400.0,Petrol,Manual,4150.0
 Peugeot,206,2000,Hatchback,246850.0,1124.0,Petrol,Manual,1800.0
 KIA,Carnival,2017,Minivan,98000.0,2199.0,Diesel,Automatic,18599.0
@@ -32297,7 +32297,7 @@ Mercedes,Vito,2000,Minivan,250000.0,2200.0,Diesel,Manual,4500.0
 Renault,Megane,2010,Universal,189000.0,1500.0,Diesel,Manual,5699.0
 Renault,Scenic,2010,Universal,180000.0,1500.0,Diesel,Automatic,6200.0
 Peugeot,807,2006,Minivan,352000.0,2200.0,Diesel,Manual,3500.0
-Rare,Qq,2008,Hatchback,85000.0,800.0,Metan/Propan,Manual,2100.0
+Chery,Qq,2008,Hatchback,85000.0,800.0,Metan/Propan,Manual,2100.0
 Volkswagen,Passat,1993,Universal,230000.0,1800.0,Metan/Propan,Manual,1650.0
 Toyota,Corolla,2005,Hatchback,150000.0,2000.0,Diesel,Manual,3300.0
 BMW,X5,2004,Crossover,263500.0,3000.0,Diesel,Automatic,12000.0
@@ -32310,7 +32310,7 @@ Mercedes,Viano,2005,Minivan,300000.0,2200.0,Diesel,Automatic,7777.0
 Toyota,Celica,2004,Coupe,380000.0,1800.0,Petrol,Manual,4799.0
 Dacia,Logan,2005,Sedan,180001.0,1400.0,Petrol,Manual,2555.0
 Mercedes,C Class,2000,Sedan,200000.0,2600.0,Metan/Propan,Automatic,4499.0
-Rare,Hover,2008,SUV,18800.0,2400.0,Metan/Propan,Manual,5800.0
+Great Wall,Hover,2008,SUV,18800.0,2400.0,Metan/Propan,Manual,5800.0
 Ford,Mondeo,2007,Universal,325000.0,2000.0,Diesel,Manual,2600.0
 Opel,Astra,2011,Sedan,200000.0,1300.0,Diesel,Manual,5200.0
 Volkswagen,Caddy,2005,Combi,123600.0,2000.0,Diesel,Manual,4500.0
@@ -32381,7 +32381,7 @@ BMW,5 Series,2007,Sedan,192000.0,2500.0,Petrol,Automatic,8000.0
 BMW,6 Series,2014,SUV,250000.0,500.0,Petrol,Automatic,39000.0
 Volkswagen,Passat,2014,Universal,175000.0,1400.0,Diesel,Automatic,8500.0
 Skoda,Octavia,2006,Hatchback,234000.0,1600.0,Metan/Propan,Manual,5850.0
-Rare,Qq,2008,Universal,160000.0,800.0,Metan/Propan,Manual,650.0
+Chery,Qq,2008,Universal,160000.0,800.0,Metan/Propan,Manual,650.0
 Opel,Zafira,2007,Minivan,222111.0,1800.0,Metan/Propan,Manual,5550.0
 BMW,5 Series,1993,Sedan,260000.0,1991.0,Petrol,Manual,1450.0
 Volkswagen,Caddy,2004,Microvan,340000.0,1900.0,Diesel,Manual,5000.0
@@ -32463,7 +32463,7 @@ Dacia,Sandero,2011,Hatchback,99000.0,1200.0,Petrol,Manual,4200.0
 Toyota,Corolla,2007,Hatchback,168000.0,1599.0,Metan/Propan,Manual,4600.0
 KIA,Sportage,2011,SUV,122000.0,2000.0,Metan/Propan,Automatic,10500.0
 Skoda,Octavia,2004,Hatchback,258000.0,2000.0,Petrol,Manual,4500.0
-Rare,Altele,1995,Sedan,180000.0,1500.0,Diesel,Manual,2000.0
+ARO,Altele,1995,Sedan,180000.0,1500.0,Diesel,Manual,2000.0
 Skoda,Rapid,2013,Hatchback,164200.0,1390.0,Petrol,Automatic,8450.0
 Renault,Megane,2003,Universal,300000.0,1600.0,Petrol,Manual,2500.0
 Volkswagen,Touran,2008,Minivan,241000.0,1998.0,Diesel,Manual,5500.0
